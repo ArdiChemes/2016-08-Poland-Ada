@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-15T15:32:40"
    xmp:CreateDate="2016-08-15T15:32:40"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T14:58:44+02:00"
+   xmp:MetadataDate="2016-08-28T15:38:15+02:00"
    xmp:Rating="4"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +75,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="C9530DC023F34599A1F577CA3CCA2A18"
    xmpMM:OriginalDocumentID="C9530DC023F34599A1F577CA3CCA2A18"
-   xmpMM:InstanceID="xmp.iid:27254a24-314c-c94e-a057-c32e877f3a89"
+   xmpMM:InstanceID="xmp.iid:fe1a38c8-8055-1549-a9a0-1771ee2ecd99"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -185,8 +185,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:27254a24-314c-c94e-a057-c32e877f3a89"
-      stEvt:when="2016-08-28T14:58:44+02:00"
+      stEvt:instanceID="xmp.iid:fe1a38c8-8055-1549-a9a0-1771ee2ecd99"
+      stEvt:when="2016-08-28T15:38:15+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -254,6 +254,1684 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <crs:PaintBasedCorrections>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1.000000"
+       crs:CorrectionActive="true"
+       crs:LocalExposure="0.000000"
+       crs:LocalSaturation="0.000000"
+       crs:LocalContrast="0.000000"
+       crs:LocalClarity="0.000000"
+       crs:LocalSharpness="0.000000"
+       crs:LocalBrightness="0.000000"
+       crs:LocalToningHue="240.000000"
+       crs:LocalToningSaturation="0.000000"
+       crs:LocalExposure2012="-0.075000"
+       crs:LocalContrast2012="0.000000"
+       crs:LocalHighlights2012="0.000000"
+       crs:LocalShadows2012="0.000000"
+       crs:LocalClarity2012="0.000000"
+       crs:LocalLuminanceNoise="0.000000"
+       crs:LocalMoire="0.000000"
+       crs:LocalDefringe="0.000000"
+       crs:LocalTemperature="0.000000"
+       crs:LocalTint="0.000000">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.003251"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.390000 0.349500</rdf:li>
+           <rdf:li>f 0.6346</rdf:li>
+           <rdf:li>d 0.389031 0.349338</rdf:li>
+           <rdf:li>f 0.8154</rdf:li>
+           <rdf:li>d 0.388061 0.349177</rdf:li>
+           <rdf:li>f 0.9013</rdf:li>
+           <rdf:li>d 0.387092 0.349015</rdf:li>
+           <rdf:li>f 0.9058</rdf:li>
+           <rdf:li>d 0.387641 0.349731</rdf:li>
+           <rdf:li>f 0.9084</rdf:li>
+           <rdf:li>d 0.388478 0.350481</rdf:li>
+           <rdf:li>f 0.9106</rdf:li>
+           <rdf:li>d 0.389437 0.350734</rdf:li>
+           <rdf:li>f 0.9138</rdf:li>
+           <rdf:li>d 0.390412 0.350750</rdf:li>
+           <rdf:li>f 0.9151</rdf:li>
+           <rdf:li>d 0.391387 0.350750</rdf:li>
+           <rdf:li>f 0.9155</rdf:li>
+           <rdf:li>d 0.392363 0.350750</rdf:li>
+           <rdf:li>f 0.9173</rdf:li>
+           <rdf:li>d 0.393338 0.350750</rdf:li>
+           <rdf:li>d 0.394304 0.350636</rdf:li>
+           <rdf:li>f 0.9182</rdf:li>
+           <rdf:li>d 0.395234 0.350200</rdf:li>
+           <rdf:li>f 0.9186</rdf:li>
+           <rdf:li>d 0.396146 0.349695</rdf:li>
+           <rdf:li>f 0.9189</rdf:li>
+           <rdf:li>d 0.397063 0.349219</rdf:li>
+           <rdf:li>f 0.9206</rdf:li>
+           <rdf:li>d 0.398014 0.348993</rdf:li>
+           <rdf:li>f 0.9719</rdf:li>
+           <rdf:li>d 0.398924 0.348500</rdf:li>
+           <rdf:li>f 0.9226</rdf:li>
+           <rdf:li>d 0.399795 0.348029</rdf:li>
+           <rdf:li>d 0.400584 0.347208</rdf:li>
+           <rdf:li>f 0.9239</rdf:li>
+           <rdf:li>d 0.401333 0.346401</rdf:li>
+           <rdf:li>f 0.9269</rdf:li>
+           <rdf:li>d 0.401724 0.345077</rdf:li>
+           <rdf:li>f 0.9314</rdf:li>
+           <rdf:li>d 0.401833 0.343652</rdf:li>
+           <rdf:li>f 0.9326</rdf:li>
+           <rdf:li>d 0.401312 0.342468</rdf:li>
+           <rdf:li>f 0.9337</rdf:li>
+           <rdf:li>d 0.400622 0.341434</rdf:li>
+           <rdf:li>f 0.9340</rdf:li>
+           <rdf:li>d 0.399891 0.340475</rdf:li>
+           <rdf:li>f 0.9353</rdf:li>
+           <rdf:li>d 0.399168 0.339502</rdf:li>
+           <rdf:li>f 0.9357</rdf:li>
+           <rdf:li>d 0.398415 0.338582</rdf:li>
+           <rdf:li>f 0.9362</rdf:li>
+           <rdf:li>d 0.397581 0.337831</rdf:li>
+           <rdf:li>f 0.9382</rdf:li>
+           <rdf:li>d 0.396804 0.336955</rdf:li>
+           <rdf:li>f 0.9413</rdf:li>
+           <rdf:li>d 0.396046 0.336046</rdf:li>
+           <rdf:li>f 0.9430</rdf:li>
+           <rdf:li>d 0.395222 0.335262</rdf:li>
+           <rdf:li>f 0.9448</rdf:li>
+           <rdf:li>d 0.394376 0.334536</rdf:li>
+           <rdf:li>f 0.9419</rdf:li>
+           <rdf:li>d 0.393467 0.334022</rdf:li>
+           <rdf:li>f 0.9273</rdf:li>
+           <rdf:li>d 0.392518 0.333711</rdf:li>
+           <rdf:li>f 0.8871</rdf:li>
+           <rdf:li>d 0.391546 0.333589</rdf:li>
+           <rdf:li>f 0.9113</rdf:li>
+           <rdf:li>d 0.390573 0.333500</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.003251"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.353333 0.347500</rdf:li>
+           <rdf:li>f 0.4572</rdf:li>
+           <rdf:li>d 0.352359 0.347421</rdf:li>
+           <rdf:li>f 0.6516</rdf:li>
+           <rdf:li>d 0.351385 0.347342</rdf:li>
+           <rdf:li>f 0.7601</rdf:li>
+           <rdf:li>d 0.350411 0.347263</rdf:li>
+           <rdf:li>f 0.8294</rdf:li>
+           <rdf:li>d 0.349437 0.347184</rdf:li>
+           <rdf:li>f 0.8774</rdf:li>
+           <rdf:li>d 0.348463 0.347105</rdf:li>
+           <rdf:li>f 0.9127</rdf:li>
+           <rdf:li>d 0.347489 0.347026</rdf:li>
+           <rdf:li>f 0.9948</rdf:li>
+           <rdf:li>d 0.346514 0.347000</rdf:li>
+           <rdf:li>f 0.9492</rdf:li>
+           <rdf:li>d 0.345539 0.347000</rdf:li>
+           <rdf:li>f 0.9243</rdf:li>
+           <rdf:li>d 0.344603 0.346725</rdf:li>
+           <rdf:li>f 0.9253</rdf:li>
+           <rdf:li>d 0.343630 0.346621</rdf:li>
+           <rdf:li>f 0.9262</rdf:li>
+           <rdf:li>d 0.342657 0.346517</rdf:li>
+           <rdf:li>f 0.9288</rdf:li>
+           <rdf:li>d 0.341687 0.346445</rdf:li>
+           <rdf:li>f 0.9287</rdf:li>
+           <rdf:li>d 0.340803 0.345926</rdf:li>
+           <rdf:li>f 0.9291</rdf:li>
+           <rdf:li>d 0.339856 0.345571</rdf:li>
+           <rdf:li>f 0.9305</rdf:li>
+           <rdf:li>d 0.338910 0.345288</rdf:li>
+           <rdf:li>f 0.9914</rdf:li>
+           <rdf:li>d 0.337971 0.344956</rdf:li>
+           <rdf:li>f 0.9279</rdf:li>
+           <rdf:li>d 0.337861 0.343584</rdf:li>
+           <rdf:li>f 0.9277</rdf:li>
+           <rdf:li>d 0.338121 0.342197</rdf:li>
+           <rdf:li>f 0.9276</rdf:li>
+           <rdf:li>d 0.338633 0.340951</rdf:li>
+           <rdf:li>f 0.9269</rdf:li>
+           <rdf:li>d 0.339283 0.339873</rdf:li>
+           <rdf:li>d 0.340012 0.338901</rdf:li>
+           <rdf:li>f 0.9390</rdf:li>
+           <rdf:li>d 0.340728 0.337908</rdf:li>
+           <rdf:li>f 0.9855</rdf:li>
+           <rdf:li>d 0.341439 0.336909</rdf:li>
+           <rdf:li>f 0.9272</rdf:li>
+           <rdf:li>d 0.342187 0.335970</rdf:li>
+           <rdf:li>f 0.9961</rdf:li>
+           <rdf:li>d 0.342948 0.335058</rdf:li>
+           <rdf:li>f 0.9278</rdf:li>
+           <rdf:li>d 0.343832 0.334445</rdf:li>
+           <rdf:li>f 0.9272</rdf:li>
+           <rdf:li>d 0.344744 0.334000</rdf:li>
+           <rdf:li>f 0.9523</rdf:li>
+           <rdf:li>d 0.345698 0.333738</rdf:li>
+           <rdf:li>f 0.9787</rdf:li>
+           <rdf:li>d 0.346645 0.333383</rdf:li>
+           <rdf:li>f 0.9986</rdf:li>
+           <rdf:li>d 0.347591 0.333028</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1.000000"
+       crs:CorrectionActive="true"
+       crs:LocalExposure="0.000000"
+       crs:LocalSaturation="0.400000"
+       crs:LocalContrast="0.000000"
+       crs:LocalClarity="0.000000"
+       crs:LocalSharpness="0.000000"
+       crs:LocalBrightness="0.000000"
+       crs:LocalToningHue="240.000000"
+       crs:LocalToningSaturation="0.000000"
+       crs:LocalExposure2012="0.087500"
+       crs:LocalContrast2012="0.000000"
+       crs:LocalHighlights2012="0.000000"
+       crs:LocalShadows2012="0.000000"
+       crs:LocalClarity2012="0.100000"
+       crs:LocalLuminanceNoise="0.000000"
+       crs:LocalMoire="0.000000"
+       crs:LocalDefringe="0.000000"
+       crs:LocalTemperature="0.000000"
+       crs:LocalTint="0.000000">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.003251"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.391500 0.342250</rdf:li>
+           <rdf:li>f 0.5728</rdf:li>
+           <rdf:li>d 0.390547 0.342561</rdf:li>
+           <rdf:li>f 0.7622</rdf:li>
+           <rdf:li>d 0.389594 0.342872</rdf:li>
+           <rdf:li>f 0.8572</rdf:li>
+           <rdf:li>d 0.388640 0.343182</rdf:li>
+           <rdf:li>f 0.9142</rdf:li>
+           <rdf:li>d 0.387687 0.343493</rdf:li>
+           <rdf:li>f 0.9163</rdf:li>
+           <rdf:li>d 0.388432 0.344324</rdf:li>
+           <rdf:li>f 0.9179</rdf:li>
+           <rdf:li>d 0.389304 0.344978</rdf:li>
+           <rdf:li>f 0.9204</rdf:li>
+           <rdf:li>d 0.390276 0.345000</rdf:li>
+           <rdf:li>f 0.9220</rdf:li>
+           <rdf:li>d 0.391129 0.344556</rdf:li>
+           <rdf:li>f 0.9231</rdf:li>
+           <rdf:li>d 0.391745 0.343426</rdf:li>
+           <rdf:li>f 0.9288</rdf:li>
+           <rdf:li>d 0.391452 0.342214</rdf:li>
+           <rdf:li>f 0.9722</rdf:li>
+           <rdf:li>d 0.390510 0.342000</rdf:li>
+           <rdf:li>f 0.9260</rdf:li>
+           <rdf:li>d 0.389535 0.342000</rdf:li>
+           <rdf:li>f 0.9263</rdf:li>
+           <rdf:li>d 0.389018 0.343196</rdf:li>
+           <rdf:li>f 0.9241</rdf:li>
+           <rdf:li>d 0.389223 0.344473</rdf:li>
+           <rdf:li>f 0.9243</rdf:li>
+           <rdf:li>d 0.390109 0.345015</rdf:li>
+           <rdf:li>f 0.9244</rdf:li>
+           <rdf:li>d 0.391054 0.345250</rdf:li>
+           <rdf:li>f 0.9234</rdf:li>
+           <rdf:li>d 0.392011 0.345078</rdf:li>
+           <rdf:li>f 0.9233</rdf:li>
+           <rdf:li>d 0.392868 0.344448</rdf:li>
+           <rdf:li>f 0.9253</rdf:li>
+           <rdf:li>d 0.393000 0.343067</rdf:li>
+           <rdf:li>f 0.9257</rdf:li>
+           <rdf:li>d 0.392642 0.341892</rdf:li>
+           <rdf:li>f 0.9260</rdf:li>
+           <rdf:li>d 0.391796 0.341250</rdf:li>
+           <rdf:li>f 0.9258</rdf:li>
+           <rdf:li>d 0.390820 0.341250</rdf:li>
+           <rdf:li>f 0.9255</rdf:li>
+           <rdf:li>d 0.389845 0.341250</rdf:li>
+           <rdf:li>f 0.9248</rdf:li>
+           <rdf:li>d 0.388945 0.341805</rdf:li>
+           <rdf:li>f 0.9239</rdf:li>
+           <rdf:li>d 0.388434 0.342899</rdf:li>
+           <rdf:li>f 0.9248</rdf:li>
+           <rdf:li>d 0.388553 0.344244</rdf:li>
+           <rdf:li>f 0.9252</rdf:li>
+           <rdf:li>d 0.389120 0.345430</rdf:li>
+           <rdf:li>f 0.9256</rdf:li>
+           <rdf:li>d 0.389987 0.345995</rdf:li>
+           <rdf:li>f 0.9258</rdf:li>
+           <rdf:li>d 0.390933 0.346350</rdf:li>
+           <rdf:li>f 0.9679</rdf:li>
+           <rdf:li>d 0.391874 0.346268</rdf:li>
+           <rdf:li>f 0.9903</rdf:li>
+           <rdf:li>d 0.392714 0.345633</rdf:li>
+           <rdf:li>f 0.9510</rdf:li>
+           <rdf:li>d 0.393356 0.344532</rdf:li>
+           <rdf:li>f 0.9113</rdf:li>
+           <rdf:li>d 0.393667 0.343244</rdf:li>
+           <rdf:li>f 0.8823</rdf:li>
+           <rdf:li>d 0.393667 0.341781</rdf:li>
+           <rdf:li>f 0.9436</rdf:li>
+           <rdf:li>d 0.392949 0.341011</rdf:li>
+           <rdf:li>f 0.9912</rdf:li>
+           <rdf:li>d 0.392061 0.340405</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.003251"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.346000 0.339750</rdf:li>
+           <rdf:li>f 0.5575</rdf:li>
+           <rdf:li>d 0.346805 0.340576</rdf:li>
+           <rdf:li>f 0.7485</rdf:li>
+           <rdf:li>d 0.347610 0.341402</rdf:li>
+           <rdf:li>f 0.8455</rdf:li>
+           <rdf:li>d 0.348415 0.342229</rdf:li>
+           <rdf:li>f 0.9010</rdf:li>
+           <rdf:li>d 0.349225 0.342957</rdf:li>
+           <rdf:li>f 0.9014</rdf:li>
+           <rdf:li>d 0.350042 0.342187</rdf:li>
+           <rdf:li>f 0.9036</rdf:li>
+           <rdf:li>d 0.350685 0.341115</rdf:li>
+           <rdf:li>f 0.9121</rdf:li>
+           <rdf:li>d 0.350781 0.339684</rdf:li>
+           <rdf:li>f 0.9157</rdf:li>
+           <rdf:li>d 0.350197 0.338718</rdf:li>
+           <rdf:li>f 0.9158</rdf:li>
+           <rdf:li>d 0.349267 0.338288</rdf:li>
+           <rdf:li>f 0.9157</rdf:li>
+           <rdf:li>d 0.348295 0.338250</rdf:li>
+           <rdf:li>f 0.9155</rdf:li>
+           <rdf:li>d 0.347319 0.338250</rdf:li>
+           <rdf:li>f 0.9139</rdf:li>
+           <rdf:li>d 0.346485 0.338927</rdf:li>
+           <rdf:li>f 0.9137</rdf:li>
+           <rdf:li>d 0.345730 0.339854</rdf:li>
+           <rdf:li>f 0.9136</rdf:li>
+           <rdf:li>d 0.345000 0.340798</rdf:li>
+           <rdf:li>f 0.9617</rdf:li>
+           <rdf:li>d 0.345146 0.342237</rdf:li>
+           <rdf:li>f 0.9924</rdf:li>
+           <rdf:li>d 0.345424 0.343602</rdf:li>
+           <rdf:li>f 0.9160</rdf:li>
+           <rdf:li>d 0.346228 0.344421</rdf:li>
+           <rdf:li>f 0.9161</rdf:li>
+           <rdf:li>d 0.347191 0.344500</rdf:li>
+           <rdf:li>f 0.9157</rdf:li>
+           <rdf:li>d 0.348167 0.344500</rdf:li>
+           <rdf:li>f 0.9160</rdf:li>
+           <rdf:li>d 0.349062 0.344104</rdf:li>
+           <rdf:li>f 0.9656</rdf:li>
+           <rdf:li>d 0.349745 0.343146</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.349833 0.341704</rdf:li>
+           <rdf:li>f 0.9719</rdf:li>
+           <rdf:li>d 0.349756 0.340268</rdf:li>
+           <rdf:li>f 0.9218</rdf:li>
+           <rdf:li>d 0.348973 0.339574</rdf:li>
+           <rdf:li>f 0.9212</rdf:li>
+           <rdf:li>d 0.348021 0.339257</rdf:li>
+           <rdf:li>f 0.9185</rdf:li>
+           <rdf:li>d 0.347111 0.339667</rdf:li>
+           <rdf:li>f 0.9200</rdf:li>
+           <rdf:li>d 0.347000 0.341027</rdf:li>
+           <rdf:li>d 0.347569 0.341951</rdf:li>
+           <rdf:li>f 0.9206</rdf:li>
+           <rdf:li>d 0.348512 0.342246</rdf:li>
+           <rdf:li>f 0.9197</rdf:li>
+           <rdf:li>d 0.349464 0.341929</rdf:li>
+           <rdf:li>f 0.9177</rdf:li>
+           <rdf:li>d 0.350132 0.341189</rdf:li>
+           <rdf:li>f 0.9199</rdf:li>
+           <rdf:li>d 0.349502 0.340072</rdf:li>
+           <rdf:li>f 0.9220</rdf:li>
+           <rdf:li>d 0.348872 0.338955</rdf:li>
+           <rdf:li>f 0.9237</rdf:li>
+           <rdf:li>d 0.348199 0.337933</rdf:li>
+           <rdf:li>f 0.9067</rdf:li>
+           <rdf:li>d 0.347257 0.337942</rdf:li>
+           <rdf:li>f 0.8761</rdf:li>
+           <rdf:li>d 0.346332 0.338294</rdf:li>
+           <rdf:li>f 0.9264</rdf:li>
+           <rdf:li>d 0.346288 0.339755</rdf:li>
+           <rdf:li>f 0.9607</rdf:li>
+           <rdf:li>d 0.346243 0.341217</rdf:li>
+           <rdf:li>f 0.9857</rdf:li>
+           <rdf:li>d 0.346199 0.342678</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1.000000"
+       crs:CorrectionActive="true"
+       crs:LocalExposure="0.000000"
+       crs:LocalSaturation="0.000000"
+       crs:LocalContrast="0.000000"
+       crs:LocalClarity="0.000000"
+       crs:LocalSharpness="0.000000"
+       crs:LocalBrightness="0.000000"
+       crs:LocalToningHue="240.000000"
+       crs:LocalToningSaturation="0.000000"
+       crs:LocalExposure2012="0.162500"
+       crs:LocalContrast2012="0.000000"
+       crs:LocalHighlights2012="0.000000"
+       crs:LocalShadows2012="0.000000"
+       crs:LocalClarity2012="0.000000"
+       crs:LocalLuminanceNoise="0.000000"
+       crs:LocalMoire="0.000000"
+       crs:LocalDefringe="0.000000"
+       crs:LocalTemperature="0.000000"
+       crs:LocalTint="0.000000">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.003251"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.353167 0.341250</rdf:li>
+           <rdf:li>f 0.7549</rdf:li>
+           <rdf:li>d 0.353892 0.342229</rdf:li>
+           <rdf:li>f 0.9089</rdf:li>
+           <rdf:li>d 0.354617 0.343208</rdf:li>
+           <rdf:li>f 0.9825</rdf:li>
+           <rdf:li>d 0.354154 0.343586</rdf:li>
+           <rdf:li>f 0.9941</rdf:li>
+           <rdf:li>d 0.353188 0.343750</rdf:li>
+           <rdf:li>f 0.9327</rdf:li>
+           <rdf:li>d 0.353719 0.344000</rdf:li>
+           <rdf:li>f 0.9332</rdf:li>
+           <rdf:li>d 0.354694 0.344000</rdf:li>
+           <rdf:li>f 0.9329</rdf:li>
+           <rdf:li>d 0.355670 0.344000</rdf:li>
+           <rdf:li>f 0.9350</rdf:li>
+           <rdf:li>d 0.355995 0.343243</rdf:li>
+           <rdf:li>f 0.9355</rdf:li>
+           <rdf:li>d 0.355305 0.342208</rdf:li>
+           <rdf:li>f 0.9367</rdf:li>
+           <rdf:li>d 0.354567 0.341350</rdf:li>
+           <rdf:li>f 0.9376</rdf:li>
+           <rdf:li>d 0.353925 0.340388</rdf:li>
+           <rdf:li>f 0.9352</rdf:li>
+           <rdf:li>d 0.353730 0.339980</rdf:li>
+           <rdf:li>d 0.354582 0.340687</rdf:li>
+           <rdf:li>f 0.9351</rdf:li>
+           <rdf:li>d 0.355423 0.341423</rdf:li>
+           <rdf:li>f 0.9350</rdf:li>
+           <rdf:li>d 0.356263 0.342096</rdf:li>
+           <rdf:li>f 0.9344</rdf:li>
+           <rdf:li>d 0.356177 0.342500</rdf:li>
+           <rdf:li>f 0.9351</rdf:li>
+           <rdf:li>d 0.355201 0.342500</rdf:li>
+           <rdf:li>f 0.9352</rdf:li>
+           <rdf:li>d 0.354226 0.342500</rdf:li>
+           <rdf:li>f 0.9354</rdf:li>
+           <rdf:li>d 0.353250 0.342500</rdf:li>
+           <rdf:li>f 0.9821</rdf:li>
+           <rdf:li>d 0.352333 0.342588</rdf:li>
+           <rdf:li>f 0.9312</rdf:li>
+           <rdf:li>d 0.352701 0.343500</rdf:li>
+           <rdf:li>f 0.9317</rdf:li>
+           <rdf:li>d 0.353649 0.343750</rdf:li>
+           <rdf:li>f 0.9325</rdf:li>
+           <rdf:li>d 0.354624 0.343750</rdf:li>
+           <rdf:li>f 0.9361</rdf:li>
+           <rdf:li>d 0.355600 0.343750</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.356181 0.343728</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.342667 0.341750</rdf:li>
+           <rdf:li>f 0.7752</rdf:li>
+           <rdf:li>d 0.342841 0.340967</rdf:li>
+           <rdf:li>f 0.9155</rdf:li>
+           <rdf:li>d 0.343046 0.340250</rdf:li>
+           <rdf:li>f 0.9186</rdf:li>
+           <rdf:li>d 0.343142 0.340018</rdf:li>
+           <rdf:li>f 0.9192</rdf:li>
+           <rdf:li>d 0.342650 0.340388</rdf:li>
+           <rdf:li>f 0.9201</rdf:li>
+           <rdf:li>d 0.342140 0.340645</rdf:li>
+           <rdf:li>f 0.9177</rdf:li>
+           <rdf:li>d 0.341667 0.341031</rdf:li>
+           <rdf:li>f 0.9182</rdf:li>
+           <rdf:li>d 0.341909 0.341726</rdf:li>
+           <rdf:li>f 0.9188</rdf:li>
+           <rdf:li>d 0.342266 0.342324</rdf:li>
+           <rdf:li>f 0.9190</rdf:li>
+           <rdf:li>d 0.342721 0.342663</rdf:li>
+           <rdf:li>f 0.9196</rdf:li>
+           <rdf:li>d 0.343118 0.343089</rdf:li>
+           <rdf:li>f 0.9274</rdf:li>
+           <rdf:li>d 0.343399 0.343098</rdf:li>
+           <rdf:li>f 0.9254</rdf:li>
+           <rdf:li>d 0.343129 0.342386</rdf:li>
+           <rdf:li>f 0.9222</rdf:li>
+           <rdf:li>d 0.343000 0.341606</rdf:li>
+           <rdf:li>f 0.9209</rdf:li>
+           <rdf:li>d 0.343000 0.340781</rdf:li>
+           <rdf:li>f 0.9869</rdf:li>
+           <rdf:li>d 0.343167 0.340059</rdf:li>
+           <rdf:li>f 0.9214</rdf:li>
+           <rdf:li>d 0.343167 0.340266</rdf:li>
+           <rdf:li>f 0.9221</rdf:li>
+           <rdf:li>d 0.343194 0.341082</rdf:li>
+           <rdf:li>f 0.9219</rdf:li>
+           <rdf:li>d 0.343440 0.341820</rdf:li>
+           <rdf:li>f 0.9717</rdf:li>
+           <rdf:li>d 0.343843 0.342265</rdf:li>
+           <rdf:li>f 0.9303</rdf:li>
+           <rdf:li>d 0.343838 0.342750</rdf:li>
+           <rdf:li>f 0.9314</rdf:li>
+           <rdf:li>d 0.343290 0.342728</rdf:li>
+           <rdf:li>f 0.9317</rdf:li>
+           <rdf:li>d 0.342765 0.342500</rdf:li>
+           <rdf:li>f 0.9288</rdf:li>
+           <rdf:li>d 0.342500 0.341925</rdf:li>
+           <rdf:li>f 0.9267</rdf:li>
+           <rdf:li>d 0.342637 0.341157</rdf:li>
+           <rdf:li>f 0.9245</rdf:li>
+           <rdf:li>d 0.342920 0.340449</rdf:li>
+           <rdf:li>f 0.9228</rdf:li>
+           <rdf:li>d 0.343137 0.339726</rdf:li>
+           <rdf:li>f 0.9232</rdf:li>
+           <rdf:li>d 0.343467 0.339065</rdf:li>
+           <rdf:li>f 0.9297</rdf:li>
+           <rdf:li>d 0.343194 0.338875</rdf:li>
+           <rdf:li>f 0.9299</rdf:li>
+           <rdf:li>d 0.342722 0.339300</rdf:li>
+           <rdf:li>f 0.9306</rdf:li>
+           <rdf:li>d 0.342240 0.339695</rdf:li>
+           <rdf:li>f 0.9300</rdf:li>
+           <rdf:li>d 0.341792 0.340172</rdf:li>
+           <rdf:li>f 0.9431</rdf:li>
+           <rdf:li>d 0.341314 0.340500</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.387000 0.343250</rdf:li>
+           <rdf:li>f 0.4122</rdf:li>
+           <rdf:li>d 0.386469 0.343467</rdf:li>
+           <rdf:li>f 0.6041</rdf:li>
+           <rdf:li>d 0.385938 0.343684</rdf:li>
+           <rdf:li>f 0.7162</rdf:li>
+           <rdf:li>d 0.385407 0.343901</rdf:li>
+           <rdf:li>f 0.7897</rdf:li>
+           <rdf:li>d 0.384877 0.344119</rdf:li>
+           <rdf:li>f 0.8415</rdf:li>
+           <rdf:li>d 0.384346 0.344336</rdf:li>
+           <rdf:li>f 0.8801</rdf:li>
+           <rdf:li>d 0.383815 0.344553</rdf:li>
+           <rdf:li>f 0.9127</rdf:li>
+           <rdf:li>d 0.383379 0.344716</rdf:li>
+           <rdf:li>f 0.9120</rdf:li>
+           <rdf:li>d 0.383886 0.344451</rdf:li>
+           <rdf:li>f 0.9113</rdf:li>
+           <rdf:li>d 0.384352 0.344013</rdf:li>
+           <rdf:li>f 0.9106</rdf:li>
+           <rdf:li>d 0.384819 0.343576</rdf:li>
+           <rdf:li>f 0.9104</rdf:li>
+           <rdf:li>d 0.385266 0.343101</rdf:li>
+           <rdf:li>f 0.9111</rdf:li>
+           <rdf:li>d 0.385682 0.342568</rdf:li>
+           <rdf:li>f 0.9118</rdf:li>
+           <rdf:li>d 0.386119 0.342071</rdf:li>
+           <rdf:li>f 0.9984</rdf:li>
+           <rdf:li>d 0.386510 0.341492</rdf:li>
+           <rdf:li>f 0.9209</rdf:li>
+           <rdf:li>d 0.386664 0.341377</rdf:li>
+           <rdf:li>f 0.9214</rdf:li>
+           <rdf:li>d 0.386336 0.341992</rdf:li>
+           <rdf:li>f 0.9442</rdf:li>
+           <rdf:li>d 0.386029 0.342654</rdf:li>
+           <rdf:li>f 0.9929</rdf:li>
+           <rdf:li>d 0.385589 0.343150</rdf:li>
+           <rdf:li>f 0.9503</rdf:li>
+           <rdf:li>d 0.385257 0.343797</rdf:li>
+           <rdf:li>f 0.9209</rdf:li>
+           <rdf:li>d 0.384951 0.344484</rdf:li>
+           <rdf:li>f 0.9208</rdf:li>
+           <rdf:li>d 0.384738 0.345108</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.385249 0.345250</rdf:li>
+           <rdf:li>f 0.9190</rdf:li>
+           <rdf:li>d 0.385800 0.345250</rdf:li>
+           <rdf:li>f 0.9597</rdf:li>
+           <rdf:li>d 0.386268 0.345653</rdf:li>
+           <rdf:li>f 0.9342</rdf:li>
+           <rdf:li>d 0.386188 0.345098</rdf:li>
+           <rdf:li>f 0.9321</rdf:li>
+           <rdf:li>d 0.386000 0.344337</rdf:li>
+           <rdf:li>f 0.9270</rdf:li>
+           <rdf:li>d 0.386000 0.343511</rdf:li>
+           <rdf:li>f 0.9241</rdf:li>
+           <rdf:li>d 0.386094 0.342719</rdf:li>
+           <rdf:li>f 0.9237</rdf:li>
+           <rdf:li>d 0.386044 0.343051</rdf:li>
+           <rdf:li>d 0.386000 0.343865</rdf:li>
+           <rdf:li>d 0.386000 0.344691</rdf:li>
+           <rdf:li>f 0.9969</rdf:li>
+           <rdf:li>d 0.385989 0.345500</rdf:li>
+           <rdf:li>f 0.9282</rdf:li>
+           <rdf:li>d 0.385447 0.345616</rdf:li>
+           <rdf:li>f 0.9280</rdf:li>
+           <rdf:li>d 0.384905 0.345750</rdf:li>
+           <rdf:li>f 0.9954</rdf:li>
+           <rdf:li>d 0.384380 0.345977</rdf:li>
+           <rdf:li>f 0.9228</rdf:li>
+           <rdf:li>d 0.384835 0.346000</rdf:li>
+           <rdf:li>f 0.9224</rdf:li>
+           <rdf:li>d 0.385385 0.346000</rdf:li>
+           <rdf:li>f 0.9268</rdf:li>
+           <rdf:li>d 0.385935 0.346000</rdf:li>
+           <rdf:li>f 0.9092</rdf:li>
+           <rdf:li>d 0.385848 0.346000</rdf:li>
+           <rdf:li>f 0.9881</rdf:li>
+           <rdf:li>d 0.385298 0.346000</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.395833 0.341250</rdf:li>
+           <rdf:li>f 0.4514</rdf:li>
+           <rdf:li>d 0.395700 0.342051</rdf:li>
+           <rdf:li>f 0.6457</rdf:li>
+           <rdf:li>d 0.395566 0.342851</rdf:li>
+           <rdf:li>f 0.7547</rdf:li>
+           <rdf:li>d 0.395433 0.343652</rdf:li>
+           <rdf:li>f 0.8245</rdf:li>
+           <rdf:li>d 0.395300 0.344453</rdf:li>
+           <rdf:li>f 0.8731</rdf:li>
+           <rdf:li>d 0.395166 0.345254</rdf:li>
+           <rdf:li>f 0.9088</rdf:li>
+           <rdf:li>d 0.395033 0.346054</rdf:li>
+           <rdf:li>f 0.9227</rdf:li>
+           <rdf:li>d 0.394657 0.346514</rdf:li>
+           <rdf:li>f 0.9183</rdf:li>
+           <rdf:li>d 0.394500 0.346758</rdf:li>
+           <rdf:li>f 0.9176</rdf:li>
+           <rdf:li>d 0.394973 0.346350</rdf:li>
+           <rdf:li>f 0.9175</rdf:li>
+           <rdf:li>d 0.395421 0.345870</rdf:li>
+           <rdf:li>f 0.9174</rdf:li>
+           <rdf:li>d 0.395869 0.345391</rdf:li>
+           <rdf:li>f 0.9179</rdf:li>
+           <rdf:li>d 0.396252 0.344809</rdf:li>
+           <rdf:li>f 0.9197</rdf:li>
+           <rdf:li>d 0.396532 0.344104</rdf:li>
+           <rdf:li>f 0.9212</rdf:li>
+           <rdf:li>d 0.396667 0.343311</rdf:li>
+           <rdf:li>f 0.9229</rdf:li>
+           <rdf:li>d 0.396745 0.342514</rdf:li>
+           <rdf:li>f 0.9237</rdf:li>
+           <rdf:li>d 0.396833 0.342780</rdf:li>
+           <rdf:li>f 0.9241</rdf:li>
+           <rdf:li>d 0.396797 0.343591</rdf:li>
+           <rdf:li>f 0.9243</rdf:li>
+           <rdf:li>d 0.396514 0.344298</rdf:li>
+           <rdf:li>f 0.9250</rdf:li>
+           <rdf:li>d 0.396144 0.344784</rdf:li>
+           <rdf:li>f 0.9251</rdf:li>
+           <rdf:li>d 0.395755 0.345368</rdf:li>
+           <rdf:li>f 0.9257</rdf:li>
+           <rdf:li>d 0.395366 0.345952</rdf:li>
+           <rdf:li>f 0.9256</rdf:li>
+           <rdf:li>d 0.394941 0.346427</rdf:li>
+           <rdf:li>f 0.9210</rdf:li>
+           <rdf:li>d 0.394934 0.346848</rdf:li>
+           <rdf:li>f 0.9207</rdf:li>
+           <rdf:li>d 0.395254 0.346179</rdf:li>
+           <rdf:li>f 0.9208</rdf:li>
+           <rdf:li>d 0.395621 0.345569</rdf:li>
+           <rdf:li>f 0.9209</rdf:li>
+           <rdf:li>d 0.396008 0.344982</rdf:li>
+           <rdf:li>d 0.396313 0.344296</rdf:li>
+           <rdf:li>f 0.9218</rdf:li>
+           <rdf:li>d 0.396500 0.343583</rdf:li>
+           <rdf:li>f 0.9189</rdf:li>
+           <rdf:li>d 0.396662 0.343000</rdf:li>
+           <rdf:li>f 0.9837</rdf:li>
+           <rdf:li>d 0.396786 0.343789</rdf:li>
+           <rdf:li>f 0.9198</rdf:li>
+           <rdf:li>d 0.396803 0.344592</rdf:li>
+           <rdf:li>f 0.9227</rdf:li>
+           <rdf:li>d 0.396494 0.345262</rdf:li>
+           <rdf:li>f 0.9711</rdf:li>
+           <rdf:li>d 0.396150 0.345906</rdf:li>
+           <rdf:li>f 0.9855</rdf:li>
+           <rdf:li>d 0.395833 0.346565</rdf:li>
+           <rdf:li>f 0.9161</rdf:li>
+           <rdf:li>d 0.395851 0.346974</rdf:li>
+           <rdf:li>f 0.9155</rdf:li>
+           <rdf:li>d 0.396240 0.346390</rdf:li>
+           <rdf:li>f 0.9150</rdf:li>
+           <rdf:li>d 0.396682 0.346000</rdf:li>
+           <rdf:li>f 0.9723</rdf:li>
+           <rdf:li>d 0.397116 0.345577</rdf:li>
+           <rdf:li>f 0.9146</rdf:li>
+           <rdf:li>d 0.397504 0.344992</rdf:li>
+           <rdf:li>f 0.9148</rdf:li>
+           <rdf:li>d 0.397834 0.344332</rdf:li>
+           <rdf:li>f 0.9887</rdf:li>
+           <rdf:li>d 0.397966 0.343902</rdf:li>
+           <rdf:li>f 0.9202</rdf:li>
+           <rdf:li>d 0.397729 0.344617</rdf:li>
+           <rdf:li>f 0.9198</rdf:li>
+           <rdf:li>d 0.397289 0.345112</rdf:li>
+           <rdf:li>f 0.9211</rdf:li>
+           <rdf:li>d 0.396815 0.345458</rdf:li>
+           <rdf:li>f 0.9209</rdf:li>
+           <rdf:li>d 0.396375 0.345953</rdf:li>
+           <rdf:li>f 0.9142</rdf:li>
+           <rdf:li>d 0.396831 0.346000</rdf:li>
+           <rdf:li>f 0.9134</rdf:li>
+           <rdf:li>d 0.397362 0.345819</rdf:li>
+           <rdf:li>f 0.9136</rdf:li>
+           <rdf:li>d 0.397884 0.345558</rdf:li>
+           <rdf:li>f 0.9142</rdf:li>
+           <rdf:li>d 0.398400 0.345400</rdf:li>
+           <rdf:li>f 0.9219</rdf:li>
+           <rdf:li>d 0.398091 0.345250</rdf:li>
+           <rdf:li>f 0.9222</rdf:li>
+           <rdf:li>d 0.397574 0.345506</rdf:li>
+           <rdf:li>d 0.397058 0.345791</rdf:li>
+           <rdf:li>f 0.9215</rdf:li>
+           <rdf:li>d 0.396524 0.345991</rdf:li>
+           <rdf:li>f 0.9851</rdf:li>
+           <rdf:li>d 0.396623 0.346250</rdf:li>
+           <rdf:li>f 0.9107</rdf:li>
+           <rdf:li>d 0.397173 0.346250</rdf:li>
+           <rdf:li>d 0.397723 0.346250</rdf:li>
+           <rdf:li>f 0.9123</rdf:li>
+           <rdf:li>d 0.398234 0.346000</rdf:li>
+           <rdf:li>f 0.9882</rdf:li>
+           <rdf:li>d 0.398701 0.345698</rdf:li>
+           <rdf:li>f 0.9233</rdf:li>
+           <rdf:li>d 0.398694 0.345041</rdf:li>
+           <rdf:li>f 0.9247</rdf:li>
+           <rdf:li>d 0.398316 0.344447</rdf:li>
+           <rdf:li>f 0.9738</rdf:li>
+           <rdf:li>d 0.398013 0.343770</rdf:li>
+           <rdf:li>f 0.9753</rdf:li>
+           <rdf:li>d 0.397575 0.343363</rdf:li>
+           <rdf:li>f 0.9227</rdf:li>
+           <rdf:li>d 0.397128 0.342977</rdf:li>
+           <rdf:li>f 0.9795</rdf:li>
+           <rdf:li>d 0.396617 0.342670</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.353000 0.345250</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.352833 0.344500</rdf:li>
+           <rdf:li>f 0.4997</rdf:li>
+           <rdf:li>d 0.353380 0.344404</rdf:li>
+           <rdf:li>f 0.6941</rdf:li>
+           <rdf:li>d 0.353926 0.344307</rdf:li>
+           <rdf:li>f 0.7983</rdf:li>
+           <rdf:li>d 0.354473 0.344211</rdf:li>
+           <rdf:li>f 0.8632</rdf:li>
+           <rdf:li>d 0.355019 0.344114</rdf:li>
+           <rdf:li>f 0.9075</rdf:li>
+           <rdf:li>d 0.355566 0.344018</rdf:li>
+           <rdf:li>f 0.9153</rdf:li>
+           <rdf:li>d 0.356115 0.344000</rdf:li>
+           <rdf:li>f 0.9185</rdf:li>
+           <rdf:li>d 0.356499 0.344250</rdf:li>
+           <rdf:li>f 0.9867</rdf:li>
+           <rdf:li>d 0.357049 0.344250</rdf:li>
+           <rdf:li>f 0.9284</rdf:li>
+           <rdf:li>d 0.357097 0.344145</rdf:li>
+           <rdf:li>f 0.9291</rdf:li>
+           <rdf:li>d 0.356707 0.343561</rdf:li>
+           <rdf:li>f 0.9299</rdf:li>
+           <rdf:li>d 0.356436 0.342904</rdf:li>
+           <rdf:li>f 0.9309</rdf:li>
+           <rdf:li>d 0.356047 0.342321</rdf:li>
+           <rdf:li>f 0.9331</rdf:li>
+           <rdf:li>d 0.355776 0.341664</rdf:li>
+           <rdf:li>f 0.9360</rdf:li>
+           <rdf:li>d 0.355387 0.341080</rdf:li>
+           <rdf:li>f 0.9376</rdf:li>
+           <rdf:li>d 0.354909 0.340682</rdf:li>
+           <rdf:li>f 0.9381</rdf:li>
+           <rdf:li>d 0.354417 0.340313</rdf:li>
+           <rdf:li>f 0.9465</rdf:li>
+           <rdf:li>d 0.353961 0.339942</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.351667 0.346750</rdf:li>
+           <rdf:li>f 0.3586</rdf:li>
+           <rdf:li>d 0.352216 0.346691</rdf:li>
+           <rdf:li>f 0.5437</rdf:li>
+           <rdf:li>d 0.352764 0.346632</rdf:li>
+           <rdf:li>f 0.6581</rdf:li>
+           <rdf:li>d 0.353313 0.346574</rdf:li>
+           <rdf:li>f 0.7358</rdf:li>
+           <rdf:li>d 0.353862 0.346515</rdf:li>
+           <rdf:li>f 0.7921</rdf:li>
+           <rdf:li>d 0.354411 0.346456</rdf:li>
+           <rdf:li>f 0.8347</rdf:li>
+           <rdf:li>d 0.354960 0.346397</rdf:li>
+           <rdf:li>f 0.8680</rdf:li>
+           <rdf:li>d 0.355509 0.346338</rdf:li>
+           <rdf:li>f 0.8949</rdf:li>
+           <rdf:li>d 0.356057 0.346280</rdf:li>
+           <rdf:li>f 0.9608</rdf:li>
+           <rdf:li>d 0.356607 0.346250</rdf:li>
+           <rdf:li>f 0.9131</rdf:li>
+           <rdf:li>d 0.356843 0.346250</rdf:li>
+           <rdf:li>f 0.9140</rdf:li>
+           <rdf:li>d 0.356296 0.346180</rdf:li>
+           <rdf:li>f 0.9141</rdf:li>
+           <rdf:li>d 0.355750 0.346078</rdf:li>
+           <rdf:li>f 0.9147</rdf:li>
+           <rdf:li>d 0.355203 0.346000</rdf:li>
+           <rdf:li>f 0.9156</rdf:li>
+           <rdf:li>d 0.354652 0.346000</rdf:li>
+           <rdf:li>f 0.9159</rdf:li>
+           <rdf:li>d 0.354102 0.346000</rdf:li>
+           <rdf:li>f 0.9162</rdf:li>
+           <rdf:li>d 0.353552 0.346000</rdf:li>
+           <rdf:li>f 0.9167</rdf:li>
+           <rdf:li>d 0.353002 0.346000</rdf:li>
+           <rdf:li>f 0.9164</rdf:li>
+           <rdf:li>d 0.352478 0.345750</rdf:li>
+           <rdf:li>f 0.9154</rdf:li>
+           <rdf:li>d 0.351928 0.345750</rdf:li>
+           <rdf:li>f 0.9160</rdf:li>
+           <rdf:li>d 0.351417 0.345500</rdf:li>
+           <rdf:li>f 0.9104</rdf:li>
+           <rdf:li>d 0.351800 0.345500</rdf:li>
+           <rdf:li>f 0.9098</rdf:li>
+           <rdf:li>d 0.352350 0.345500</rdf:li>
+           <rdf:li>d 0.352900 0.345500</rdf:li>
+           <rdf:li>d 0.353450 0.345500</rdf:li>
+           <rdf:li>d 0.354000 0.345500</rdf:li>
+           <rdf:li>f 0.9100</rdf:li>
+           <rdf:li>d 0.354551 0.345500</rdf:li>
+           <rdf:li>f 0.9102</rdf:li>
+           <rdf:li>d 0.355101 0.345500</rdf:li>
+           <rdf:li>f 0.9106</rdf:li>
+           <rdf:li>d 0.355651 0.345500</rdf:li>
+           <rdf:li>f 0.9110</rdf:li>
+           <rdf:li>d 0.356201 0.345500</rdf:li>
+           <rdf:li>f 0.9124</rdf:li>
+           <rdf:li>d 0.356746 0.345397</rdf:li>
+           <rdf:li>f 0.9141</rdf:li>
+           <rdf:li>d 0.357289 0.345261</rdf:li>
+           <rdf:li>f 0.9147</rdf:li>
+           <rdf:li>d 0.357835 0.345200</rdf:li>
+           <rdf:li>f 0.9151</rdf:li>
+           <rdf:li>d 0.358375 0.345038</rdf:li>
+           <rdf:li>f 0.9683</rdf:li>
+           <rdf:li>d 0.358922 0.345000</rdf:li>
+           <rdf:li>f 0.9910</rdf:li>
+           <rdf:li>d 0.359473 0.345000</rdf:li>
+           <rdf:li>f 0.9256</rdf:li>
+           <rdf:li>d 0.359366 0.344299</rdf:li>
+           <rdf:li>f 0.9800</rdf:li>
+           <rdf:li>d 0.359108 0.343574</rdf:li>
+           <rdf:li>f 0.9542</rdf:li>
+           <rdf:li>d 0.358899 0.342849</rdf:li>
+           <rdf:li>f 0.9241</rdf:li>
+           <rdf:li>d 0.358628 0.342192</rdf:li>
+           <rdf:li>f 0.9247</rdf:li>
+           <rdf:li>d 0.358239 0.341609</rdf:li>
+           <rdf:li>d 0.357850 0.341025</rdf:li>
+           <rdf:li>f 0.9260</rdf:li>
+           <rdf:li>d 0.357634 0.340301</rdf:li>
+           <rdf:li>f 0.9234</rdf:li>
+           <rdf:li>d 0.357219 0.339872</rdf:li>
+           <rdf:li>f 0.9242</rdf:li>
+           <rdf:li>d 0.356779 0.339377</rdf:li>
+           <rdf:li>f 0.9966</rdf:li>
+           <rdf:li>d 0.356298 0.338982</rdf:li>
+           <rdf:li>f 0.9283</rdf:li>
+           <rdf:li>d 0.355833 0.338660</rdf:li>
+           <rdf:li>f 0.9289</rdf:li>
+           <rdf:li>d 0.355437 0.338202</rdf:li>
+           <rdf:li>f 0.9696</rdf:li>
+           <rdf:li>d 0.354931 0.337882</rdf:li>
+           <rdf:li>f 0.9711</rdf:li>
+           <rdf:li>d 0.354409 0.337621</rdf:li>
+           <rdf:li>f 0.9319</rdf:li>
+           <rdf:li>d 0.353951 0.337201</rdf:li>
+           <rdf:li>f 0.9332</rdf:li>
+           <rdf:li>d 0.353491 0.336750</rdf:li>
+           <rdf:li>f 0.9253</rdf:li>
+           <rdf:li>d 0.353717 0.336795</rdf:li>
+           <rdf:li>f 0.9261</rdf:li>
+           <rdf:li>d 0.354189 0.337220</rdf:li>
+           <rdf:li>f 0.9268</rdf:li>
+           <rdf:li>d 0.354668 0.337626</rdf:li>
+           <rdf:li>f 0.9272</rdf:li>
+           <rdf:li>d 0.355125 0.338078</rdf:li>
+           <rdf:li>f 0.9275</rdf:li>
+           <rdf:li>d 0.355558 0.338587</rdf:li>
+           <rdf:li>d 0.355947 0.339170</rdf:li>
+           <rdf:li>f 0.9577</rdf:li>
+           <rdf:li>d 0.356381 0.339661</rdf:li>
+           <rdf:li>f 0.9981</rdf:li>
+           <rdf:li>d 0.356873 0.340030</rdf:li>
+           <rdf:li>f 0.9688</rdf:li>
+           <rdf:li>d 0.357365 0.340399</rdf:li>
+           <rdf:li>f 0.9275</rdf:li>
+           <rdf:li>d 0.357859 0.340760</rdf:li>
+           <rdf:li>f 0.9277</rdf:li>
+           <rdf:li>d 0.358393 0.340960</rdf:li>
+           <rdf:li>f 0.9275</rdf:li>
+           <rdf:li>d 0.358917 0.341209</rdf:li>
+           <rdf:li>f 0.9289</rdf:li>
+           <rdf:li>d 0.359328 0.341741</rdf:li>
+           <rdf:li>d 0.359725 0.342309</rdf:li>
+           <rdf:li>f 0.9941</rdf:li>
+           <rdf:li>d 0.360187 0.342750</rdf:li>
+           <rdf:li>f 0.9326</rdf:li>
+           <rdf:li>d 0.360500 0.343105</rdf:li>
+           <rdf:li>f 0.9886</rdf:li>
+           <rdf:li>d 0.360923 0.343443</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.350167 0.339750</rdf:li>
+           <rdf:li>f 0.6887</rdf:li>
+           <rdf:li>d 0.350275 0.340559</rdf:li>
+           <rdf:li>f 0.8589</rdf:li>
+           <rdf:li>d 0.350382 0.341369</rdf:li>
+           <rdf:li>f 0.9364</rdf:li>
+           <rdf:li>d 0.350490 0.342178</rdf:li>
+           <rdf:li>f 0.9806</rdf:li>
+           <rdf:li>d 0.350598 0.342987</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.350667 0.343802</rdf:li>
+           <rdf:li>f 0.8819</rdf:li>
+           <rdf:li>d 0.350738 0.344429</rdf:li>
+           <rdf:li>f 0.8858</rdf:li>
+           <rdf:li>d 0.351201 0.344000</rdf:li>
+           <rdf:li>f 0.8959</rdf:li>
+           <rdf:li>d 0.351629 0.343557</rdf:li>
+           <rdf:li>f 0.9041</rdf:li>
+           <rdf:li>d 0.351833 0.342814</rdf:li>
+           <rdf:li>f 0.9087</rdf:li>
+           <rdf:li>d 0.351833 0.341988</rdf:li>
+           <rdf:li>f 0.9152</rdf:li>
+           <rdf:li>d 0.351815 0.341167</rdf:li>
+           <rdf:li>f 0.9670</rdf:li>
+           <rdf:li>d 0.351667 0.340378</rdf:li>
+           <rdf:li>f 0.9132</rdf:li>
+           <rdf:li>d 0.351635 0.340941</rdf:li>
+           <rdf:li>f 0.9152</rdf:li>
+           <rdf:li>d 0.351501 0.341742</rdf:li>
+           <rdf:li>f 0.9156</rdf:li>
+           <rdf:li>d 0.351408 0.342550</rdf:li>
+           <rdf:li>f 0.9122</rdf:li>
+           <rdf:li>d 0.351125 0.343093</rdf:li>
+           <rdf:li>f 0.9138</rdf:li>
+           <rdf:li>d 0.350833 0.343786</rdf:li>
+           <rdf:li>f 0.9159</rdf:li>
+           <rdf:li>d 0.350545 0.344432</rdf:li>
+           <rdf:li>f 0.9065</rdf:li>
+           <rdf:li>d 0.350333 0.344521</rdf:li>
+           <rdf:li>f 0.9120</rdf:li>
+           <rdf:li>d 0.350665 0.344004</rdf:li>
+           <rdf:li>f 0.9136</rdf:li>
+           <rdf:li>d 0.350957 0.343315</rdf:li>
+           <rdf:li>f 0.9139</rdf:li>
+           <rdf:li>d 0.351119 0.342538</rdf:li>
+           <rdf:li>d 0.351348 0.341797</rdf:li>
+           <rdf:li>d 0.351631 0.341089</rdf:li>
+           <rdf:li>f 0.9146</rdf:li>
+           <rdf:li>d 0.351761 0.340293</rdf:li>
+           <rdf:li>f 0.9162</rdf:li>
+           <rdf:li>d 0.351914 0.339507</rdf:li>
+           <rdf:li>f 0.9199</rdf:li>
+           <rdf:li>d 0.352000 0.338712</rdf:li>
+           <rdf:li>f 0.9219</rdf:li>
+           <rdf:li>d 0.351808 0.337961</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.346167 0.345750</rdf:li>
+           <rdf:li>f 0.5372</rdf:li>
+           <rdf:li>d 0.345950 0.344991</rdf:li>
+           <rdf:li>f 0.7298</rdf:li>
+           <rdf:li>d 0.345733 0.344233</rdf:li>
+           <rdf:li>f 0.8295</rdf:li>
+           <rdf:li>d 0.345516 0.343474</rdf:li>
+           <rdf:li>f 0.8904</rdf:li>
+           <rdf:li>d 0.345300 0.342716</rdf:li>
+           <rdf:li>f 0.9190</rdf:li>
+           <rdf:li>d 0.345167 0.341931</rdf:li>
+           <rdf:li>f 0.9212</rdf:li>
+           <rdf:li>d 0.345167 0.341106</rdf:li>
+           <rdf:li>f 0.9237</rdf:li>
+           <rdf:li>d 0.345167 0.340280</rdf:li>
+           <rdf:li>f 0.9231</rdf:li>
+           <rdf:li>d 0.345167 0.339455</rdf:li>
+           <rdf:li>f 0.9240</rdf:li>
+           <rdf:li>d 0.345167 0.338630</rdf:li>
+           <rdf:li>f 0.9884</rdf:li>
+           <rdf:li>d 0.345167 0.337804</rdf:li>
+           <rdf:li>f 0.9227</rdf:li>
+           <rdf:li>d 0.345123 0.338513</rdf:li>
+           <rdf:li>f 0.9230</rdf:li>
+           <rdf:li>d 0.344986 0.339312</rdf:li>
+           <rdf:li>f 0.9226</rdf:li>
+           <rdf:li>d 0.344833 0.340100</rdf:li>
+           <rdf:li>f 0.9202</rdf:li>
+           <rdf:li>d 0.344833 0.340926</rdf:li>
+           <rdf:li>f 0.9216</rdf:li>
+           <rdf:li>d 0.344983 0.341698</rdf:li>
+           <rdf:li>f 0.9226</rdf:li>
+           <rdf:li>d 0.345167 0.342458</rdf:li>
+           <rdf:li>f 0.9246</rdf:li>
+           <rdf:li>d 0.345333 0.343180</rdf:li>
+           <rdf:li>f 0.9257</rdf:li>
+           <rdf:li>d 0.345333 0.344005</rdf:li>
+           <rdf:li>f 0.9281</rdf:li>
+           <rdf:li>d 0.345333 0.343669</rdf:li>
+           <rdf:li>f 0.9728</rdf:li>
+           <rdf:li>d 0.345248 0.342865</rdf:li>
+           <rdf:li>f 0.9288</rdf:li>
+           <rdf:li>d 0.345142 0.342063</rdf:li>
+           <rdf:li>f 0.9295</rdf:li>
+           <rdf:li>d 0.345034 0.341253</rdf:li>
+           <rdf:li>f 0.9289</rdf:li>
+           <rdf:li>d 0.345000 0.340433</rdf:li>
+           <rdf:li>f 0.9283</rdf:li>
+           <rdf:li>d 0.345000 0.339608</rdf:li>
+           <rdf:li>f 0.9289</rdf:li>
+           <rdf:li>d 0.345000 0.338782</rdf:li>
+           <rdf:li>f 0.9287</rdf:li>
+           <rdf:li>d 0.345114 0.337985</rdf:li>
+           <rdf:li>f 0.9233</rdf:li>
+           <rdf:li>d 0.345115 0.337250</rdf:li>
+           <rdf:li>f 0.9264</rdf:li>
+           <rdf:li>d 0.344593 0.337430</rdf:li>
+           <rdf:li>f 0.9929</rdf:li>
+           <rdf:li>d 0.344097 0.337785</rdf:li>
+           <rdf:li>f 0.9274</rdf:li>
+           <rdf:li>d 0.343570 0.338000</rdf:li>
+           <rdf:li>f 0.9280</rdf:li>
+           <rdf:li>d 0.343062 0.338289</rdf:li>
+           <rdf:li>d 0.342528 0.338489</rdf:li>
+           <rdf:li>f 0.9285</rdf:li>
+           <rdf:li>d 0.342069 0.338909</rdf:li>
+           <rdf:li>f 0.9288</rdf:li>
+           <rdf:li>d 0.341558 0.339215</rdf:li>
+           <rdf:li>f 0.9289</rdf:li>
+           <rdf:li>d 0.341012 0.339250</rdf:li>
+           <rdf:li>f 0.9283</rdf:li>
+           <rdf:li>d 0.340537 0.339589</rdf:li>
+           <rdf:li>d 0.339998 0.339753</rdf:li>
+           <rdf:li>f 0.9290</rdf:li>
+           <rdf:li>d 0.339549 0.340213</rdf:li>
+           <rdf:li>f 0.9620</rdf:li>
+           <rdf:li>d 0.339044 0.340500</rdf:li>
+           <rdf:li>f 0.9200</rdf:li>
+           <rdf:li>d 0.338985 0.340045</rdf:li>
+           <rdf:li>f 0.9214</rdf:li>
+           <rdf:li>d 0.339458 0.339709</rdf:li>
+           <rdf:li>f 0.9213</rdf:li>
+           <rdf:li>d 0.339916 0.339251</rdf:li>
+           <rdf:li>f 0.9212</rdf:li>
+           <rdf:li>d 0.340389 0.338833</rdf:li>
+           <rdf:li>f 0.9214</rdf:li>
+           <rdf:li>d 0.340896 0.338512</rdf:li>
+           <rdf:li>f 0.9215</rdf:li>
+           <rdf:li>d 0.341406 0.338203</rdf:li>
+           <rdf:li>f 0.9218</rdf:li>
+           <rdf:li>d 0.341912 0.337878</rdf:li>
+           <rdf:li>f 0.9220</rdf:li>
+           <rdf:li>d 0.342418 0.337553</rdf:li>
+           <rdf:li>f 0.9228</rdf:li>
+           <rdf:li>d 0.342755 0.336925</rdf:li>
+           <rdf:li>f 0.9232</rdf:li>
+           <rdf:li>d 0.343123 0.336315</rdf:li>
+           <rdf:li>f 0.8998</rdf:li>
+           <rdf:li>d 0.343512 0.335732</rdf:li>
+           <rdf:li>f 0.8291</rdf:li>
+           <rdf:li>d 0.343901 0.335148</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.394667 0.349500</rdf:li>
+           <rdf:li>f 0.4294</rdf:li>
+           <rdf:li>d 0.395210 0.349371</rdf:li>
+           <rdf:li>f 0.6226</rdf:li>
+           <rdf:li>d 0.395754 0.349243</rdf:li>
+           <rdf:li>f 0.7334</rdf:li>
+           <rdf:li>d 0.396297 0.349114</rdf:li>
+           <rdf:li>f 0.8054</rdf:li>
+           <rdf:li>d 0.396841 0.348985</rdf:li>
+           <rdf:li>f 0.8558</rdf:li>
+           <rdf:li>d 0.397384 0.348856</rdf:li>
+           <rdf:li>f 0.8880</rdf:li>
+           <rdf:li>d 0.397929 0.348750</rdf:li>
+           <rdf:li>f 0.8898</rdf:li>
+           <rdf:li>d 0.398470 0.348609</rdf:li>
+           <rdf:li>f 0.8922</rdf:li>
+           <rdf:li>d 0.399004 0.348415</rdf:li>
+           <rdf:li>f 0.8952</rdf:li>
+           <rdf:li>d 0.399530 0.348176</rdf:li>
+           <rdf:li>f 0.8962</rdf:li>
+           <rdf:li>d 0.400066 0.348000</rdf:li>
+           <rdf:li>f 0.8994</rdf:li>
+           <rdf:li>d 0.400582 0.347877</rdf:li>
+           <rdf:li>f 0.9053</rdf:li>
+           <rdf:li>d 0.400236 0.347750</rdf:li>
+           <rdf:li>f 0.9068</rdf:li>
+           <rdf:li>d 0.399686 0.347750</rdf:li>
+           <rdf:li>f 0.9049</rdf:li>
+           <rdf:li>d 0.399136 0.347750</rdf:li>
+           <rdf:li>f 0.8973</rdf:li>
+           <rdf:li>d 0.398586 0.347750</rdf:li>
+           <rdf:li>f 0.8935</rdf:li>
+           <rdf:li>d 0.398035 0.347750</rdf:li>
+           <rdf:li>f 0.8896</rdf:li>
+           <rdf:li>d 0.397485 0.347750</rdf:li>
+           <rdf:li>f 0.8855</rdf:li>
+           <rdf:li>d 0.396935 0.347750</rdf:li>
+           <rdf:li>f 0.8813</rdf:li>
+           <rdf:li>d 0.396385 0.347750</rdf:li>
+           <rdf:li>f 0.8769</rdf:li>
+           <rdf:li>d 0.395834 0.347750</rdf:li>
+           <rdf:li>f 0.9818</rdf:li>
+           <rdf:li>d 0.396049 0.347750</rdf:li>
+           <rdf:li>f 0.8730</rdf:li>
+           <rdf:li>d 0.396599 0.347750</rdf:li>
+           <rdf:li>f 0.8734</rdf:li>
+           <rdf:li>d 0.397150 0.347750</rdf:li>
+           <rdf:li>f 0.8737</rdf:li>
+           <rdf:li>d 0.397700 0.347750</rdf:li>
+           <rdf:li>f 0.8730</rdf:li>
+           <rdf:li>d 0.398243 0.347701</rdf:li>
+           <rdf:li>f 0.8738</rdf:li>
+           <rdf:li>d 0.398749 0.347376</rdf:li>
+           <rdf:li>f 0.8745</rdf:li>
+           <rdf:li>d 0.399255 0.347050</rdf:li>
+           <rdf:li>f 0.8753</rdf:li>
+           <rdf:li>d 0.399767 0.346800</rdf:li>
+           <rdf:li>f 0.8757</rdf:li>
+           <rdf:li>d 0.400259 0.346431</rdf:li>
+           <rdf:li>f 0.9139</rdf:li>
+           <rdf:li>d 0.400761 0.346155</rdf:li>
+           <rdf:li>f 0.9715</rdf:li>
+           <rdf:li>d 0.401167 0.345655</rdf:li>
+           <rdf:li>f 0.8912</rdf:li>
+           <rdf:li>d 0.401333 0.344933</rdf:li>
+           <rdf:li>f 0.8988</rdf:li>
+           <rdf:li>d 0.401266 0.344150</rdf:li>
+           <rdf:li>f 0.9065</rdf:li>
+           <rdf:li>d 0.400892 0.343675</rdf:li>
+           <rdf:li>f 0.9647</rdf:li>
+           <rdf:li>d 0.400497 0.343122</rdf:li>
+           <rdf:li>f 0.9062</rdf:li>
+           <rdf:li>d 0.400060 0.342622</rdf:li>
+           <rdf:li>f 0.9075</rdf:li>
+           <rdf:li>d 0.399630 0.342106</rdf:li>
+           <rdf:li>f 0.9104</rdf:li>
+           <rdf:li>d 0.399163 0.341748</rdf:li>
+           <rdf:li>f 0.9111</rdf:li>
+           <rdf:li>d 0.398648 0.341458</rdf:li>
+           <rdf:li>f 0.9117</rdf:li>
+           <rdf:li>d 0.398133 0.341168</rdf:li>
+           <rdf:li>f 0.9124</rdf:li>
+           <rdf:li>d 0.397627 0.340845</rdf:li>
+           <rdf:li>f 0.9470</rdf:li>
+           <rdf:li>d 0.397118 0.340535</rdf:li>
+           <rdf:li>f 0.9798</rdf:li>
+           <rdf:li>d 0.396603 0.340245</rdf:li>
+           <rdf:li>f 0.9030</rdf:li>
+           <rdf:li>d 0.396129 0.339887</rdf:li>
+           <rdf:li>f 0.9315</rdf:li>
+           <rdf:li>d 0.395843 0.339186</rdf:li>
+           <rdf:li>f 0.9983</rdf:li>
+           <rdf:li>d 0.395513 0.338525</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.385833 0.339500</rdf:li>
+           <rdf:li>f 0.3013</rdf:li>
+           <rdf:li>d 0.385341 0.339869</rdf:li>
+           <rdf:li>f 0.4742</rdf:li>
+           <rdf:li>d 0.384849 0.340238</rdf:li>
+           <rdf:li>f 0.5881</rdf:li>
+           <rdf:li>d 0.384357 0.340607</rdf:li>
+           <rdf:li>f 0.6689</rdf:li>
+           <rdf:li>d 0.383865 0.340976</rdf:li>
+           <rdf:li>f 0.7291</rdf:li>
+           <rdf:li>d 0.383373 0.341346</rdf:li>
+           <rdf:li>f 0.7758</rdf:li>
+           <rdf:li>d 0.382880 0.341715</rdf:li>
+           <rdf:li>f 0.8130</rdf:li>
+           <rdf:li>d 0.382388 0.342084</rdf:li>
+           <rdf:li>f 0.8433</rdf:li>
+           <rdf:li>d 0.381896 0.342453</rdf:li>
+           <rdf:li>f 0.8686</rdf:li>
+           <rdf:li>d 0.381404 0.342822</rdf:li>
+           <rdf:li>f 0.8823</rdf:li>
+           <rdf:li>d 0.380916 0.343125</rdf:li>
+           <rdf:li>f 0.8831</rdf:li>
+           <rdf:li>d 0.380527 0.343709</rdf:li>
+           <rdf:li>f 0.8834</rdf:li>
+           <rdf:li>d 0.380138 0.344293</rdf:li>
+           <rdf:li>f 0.8778</rdf:li>
+           <rdf:li>d 0.379841 0.344976</rdf:li>
+           <rdf:li>f 0.8525</rdf:li>
+           <rdf:li>d 0.380199 0.345250</rdf:li>
+           <rdf:li>f 0.8447</rdf:li>
+           <rdf:li>d 0.380744 0.345207</rdf:li>
+           <rdf:li>f 0.8463</rdf:li>
+           <rdf:li>d 0.381259 0.344917</rdf:li>
+           <rdf:li>f 0.8480</rdf:li>
+           <rdf:li>d 0.381774 0.344627</rdf:li>
+           <rdf:li>f 0.8521</rdf:li>
+           <rdf:li>d 0.382223 0.344179</rdf:li>
+           <rdf:li>f 0.8546</rdf:li>
+           <rdf:li>d 0.382646 0.343651</rdf:li>
+           <rdf:li>f 0.8571</rdf:li>
+           <rdf:li>d 0.383068 0.343123</rdf:li>
+           <rdf:li>f 0.8908</rdf:li>
+           <rdf:li>d 0.383485 0.342587</rdf:li>
+           <rdf:li>f 0.9544</rdf:li>
+           <rdf:li>d 0.383933 0.342107</rdf:li>
+           <rdf:li>f 0.9923</rdf:li>
+           <rdf:li>d 0.384381 0.341628</rdf:li>
+           <rdf:li>f 0.9511</rdf:li>
+           <rdf:li>d 0.384823 0.341137</rdf:li>
+           <rdf:li>f 0.9839</rdf:li>
+           <rdf:li>d 0.385052 0.340807</rdf:li>
+           <rdf:li>f 0.8869</rdf:li>
+           <rdf:li>d 0.384538 0.341096</rdf:li>
+           <rdf:li>f 0.8881</rdf:li>
+           <rdf:li>d 0.384082 0.341551</rdf:li>
+           <rdf:li>d 0.383653 0.342067</rdf:li>
+           <rdf:li>d 0.383231 0.342596</rdf:li>
+           <rdf:li>d 0.382813 0.343133</rdf:li>
+           <rdf:li>d 0.382395 0.343670</rdf:li>
+           <rdf:li>f 0.8850</rdf:li>
+           <rdf:li>d 0.382002 0.344247</rdf:li>
+           <rdf:li>f 0.8794</rdf:li>
+           <rdf:li>d 0.381613 0.344831</rdf:li>
+           <rdf:li>f 0.9405</rdf:li>
+           <rdf:li>d 0.381891 0.345000</rdf:li>
+           <rdf:li>f 0.8570</rdf:li>
+           <rdf:li>d 0.382412 0.344816</rdf:li>
+           <rdf:li>f 0.8583</rdf:li>
+           <rdf:li>d 0.382861 0.344343</rdf:li>
+           <rdf:li>f 0.8594</rdf:li>
+           <rdf:li>d 0.383302 0.343848</rdf:li>
+           <rdf:li>f 0.8604</rdf:li>
+           <rdf:li>d 0.383742 0.343353</rdf:li>
+           <rdf:li>f 0.8611</rdf:li>
+           <rdf:li>d 0.384182 0.342858</rdf:li>
+           <rdf:li>f 0.9040</rdf:li>
+           <rdf:li>d 0.384622 0.342363</rdf:li>
+           <rdf:li>f 0.9881</rdf:li>
+           <rdf:li>d 0.385062 0.341867</rdf:li>
+           <rdf:li>f 0.9409</rdf:li>
+           <rdf:li>d 0.385464 0.341305</rdf:li>
+           <rdf:li>f 0.8616</rdf:li>
+           <rdf:li>d 0.385902 0.340824</rdf:li>
+           <rdf:li>f 0.8624</rdf:li>
+           <rdf:li>d 0.386381 0.340428</rdf:li>
+           <rdf:li>f 0.8622</rdf:li>
+           <rdf:li>d 0.386798 0.339902</rdf:li>
+           <rdf:li>f 0.9855</rdf:li>
+           <rdf:li>d 0.387229 0.339406</rdf:li>
+           <rdf:li>f 0.9997</rdf:li>
+           <rdf:li>d 0.387667 0.338999</rdf:li>
+           <rdf:li>f 0.8687</rdf:li>
+           <rdf:li>d 0.387395 0.339158</rdf:li>
+           <rdf:li>f 0.8719</rdf:li>
+           <rdf:li>d 0.387006 0.339741</rdf:li>
+           <rdf:li>f 0.8717</rdf:li>
+           <rdf:li>d 0.386617 0.340325</rdf:li>
+           <rdf:li>f 0.8698</rdf:li>
+           <rdf:li>d 0.386228 0.340908</rdf:li>
+           <rdf:li>f 0.9848</rdf:li>
+           <rdf:li>d 0.385734 0.341199</rdf:li>
+           <rdf:li>f 0.8364</rdf:li>
+           <rdf:li>d 0.386126 0.341104</rdf:li>
+           <rdf:li>f 0.8379</rdf:li>
+           <rdf:li>d 0.386665 0.341000</rdf:li>
+           <rdf:li>f 0.9140</rdf:li>
+           <rdf:li>d 0.387146 0.340604</rdf:li>
+           <rdf:li>f 0.9093</rdf:li>
+           <rdf:li>d 0.387625 0.340250</rdf:li>
+           <rdf:li>f 0.8803</rdf:li>
+           <rdf:li>d 0.387492 0.340250</rdf:li>
+           <rdf:li>f 0.8883</rdf:li>
+           <rdf:li>d 0.386953 0.340357</rdf:li>
+           <rdf:li>f 0.8940</rdf:li>
+           <rdf:li>d 0.386421 0.340530</rdf:li>
+           <rdf:li>f 0.8955</rdf:li>
+           <rdf:li>d 0.385887 0.340730</rdf:li>
+           <rdf:li>f 0.8993</rdf:li>
+           <rdf:li>d 0.385345 0.340847</rdf:li>
+           <rdf:li>f 0.9047</rdf:li>
+           <rdf:li>d 0.384805 0.341000</rdf:li>
+           <rdf:li>f 0.9103</rdf:li>
+           <rdf:li>d 0.384267 0.341150</rdf:li>
+           <rdf:li>f 0.9109</rdf:li>
+           <rdf:li>d 0.383739 0.341381</rdf:li>
+           <rdf:li>d 0.383252 0.341748</rdf:li>
+           <rdf:li>f 0.9096</rdf:li>
+           <rdf:li>d 0.382778 0.342166</rdf:li>
+           <rdf:li>f 0.9079</rdf:li>
+           <rdf:li>d 0.382431 0.342781</rdf:li>
+           <rdf:li>f 0.9077</rdf:li>
+           <rdf:li>d 0.382068 0.343397</rdf:li>
+           <rdf:li>f 0.9029</rdf:li>
+           <rdf:li>d 0.381679 0.343981</rdf:li>
+           <rdf:li>f 0.8958</rdf:li>
+           <rdf:li>d 0.381500 0.344695</rdf:li>
+           <rdf:li>f 0.8635</rdf:li>
+           <rdf:li>d 0.381988 0.344611</rdf:li>
+           <rdf:li>f 0.8608</rdf:li>
+           <rdf:li>d 0.382460 0.344186</rdf:li>
+           <rdf:li>f 0.8548</rdf:li>
+           <rdf:li>d 0.382943 0.343793</rdf:li>
+           <rdf:li>f 0.8538</rdf:li>
+           <rdf:li>d 0.383405 0.343345</rdf:li>
+           <rdf:li>f 0.8852</rdf:li>
+           <rdf:li>d 0.383477 0.343095</rdf:li>
+           <rdf:li>f 0.8874</rdf:li>
+           <rdf:li>d 0.382956 0.343303</rdf:li>
+           <rdf:li>f 0.8876</rdf:li>
+           <rdf:li>d 0.382526 0.343819</rdf:li>
+           <rdf:li>f 0.8884</rdf:li>
+           <rdf:li>d 0.382167 0.344385</rdf:li>
+           <rdf:li>f 0.8893</rdf:li>
+           <rdf:li>d 0.381833 0.345003</rdf:li>
+           <rdf:li>f 0.8687</rdf:li>
+           <rdf:li>d 0.382029 0.345353</rdf:li>
+           <rdf:li>f 0.8613</rdf:li>
+           <rdf:li>d 0.382447 0.344829</rdf:li>
+           <rdf:li>f 0.8620</rdf:li>
+           <rdf:li>d 0.382836 0.344246</rdf:li>
+           <rdf:li>f 0.8627</rdf:li>
+           <rdf:li>d 0.383225 0.343662</rdf:li>
+           <rdf:li>f 0.8605</rdf:li>
+           <rdf:li>d 0.383664 0.343169</rdf:li>
+           <rdf:li>f 0.8803</rdf:li>
+           <rdf:li>d 0.383656 0.342761</rdf:li>
+           <rdf:li>f 0.8880</rdf:li>
+           <rdf:li>d 0.383198 0.343219</rdf:li>
+           <rdf:li>f 0.8878</rdf:li>
+           <rdf:li>d 0.382901 0.343899</rdf:li>
+           <rdf:li>f 0.8880</rdf:li>
+           <rdf:li>d 0.382512 0.344482</rdf:li>
+           <rdf:li>f 0.8854</rdf:li>
+           <rdf:li>d 0.382115 0.345052</rdf:li>
+           <rdf:li>f 0.8675</rdf:li>
+           <rdf:li>d 0.381655 0.345500</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.397000 0.343500</rdf:li>
+           <rdf:li>f 0.5721</rdf:li>
+           <rdf:li>d 0.396838 0.342711</rdf:li>
+           <rdf:li>f 0.7617</rdf:li>
+           <rdf:li>d 0.396676 0.341922</rdf:li>
+           <rdf:li>f 0.8567</rdf:li>
+           <rdf:li>d 0.396515 0.341133</rdf:li>
+           <rdf:li>f 0.9138</rdf:li>
+           <rdf:li>d 0.396353 0.340345</rdf:li>
+           <rdf:li>f 0.9221</rdf:li>
+           <rdf:li>d 0.396233 0.340952</rdf:li>
+           <rdf:li>f 0.9212</rdf:li>
+           <rdf:li>d 0.396167 0.341761</rdf:li>
+           <rdf:li>f 0.9215</rdf:li>
+           <rdf:li>d 0.396167 0.342586</rdf:li>
+           <rdf:li>f 0.9223</rdf:li>
+           <rdf:li>d 0.396167 0.343412</rdf:li>
+           <rdf:li>f 0.9229</rdf:li>
+           <rdf:li>d 0.396167 0.344237</rdf:li>
+           <rdf:li>f 0.9264</rdf:li>
+           <rdf:li>d 0.396073 0.343470</rdf:li>
+           <rdf:li>f 0.9284</rdf:li>
+           <rdf:li>d 0.395878 0.342726</rdf:li>
+           <rdf:li>f 0.9267</rdf:li>
+           <rdf:li>d 0.395720 0.342490</rdf:li>
+           <rdf:li>d 0.395969 0.343203</rdf:li>
+           <rdf:li>f 0.9258</rdf:li>
+           <rdf:li>d 0.396160 0.343970</rdf:li>
+           <rdf:li>f 0.9216</rdf:li>
+           <rdf:li>d 0.396139 0.344764</rdf:li>
+           <rdf:li>f 0.9240</rdf:li>
+           <rdf:li>d 0.395629 0.345056</rdf:li>
+           <rdf:li>f 0.9246</rdf:li>
+           <rdf:li>d 0.395194 0.345556</rdf:li>
+           <rdf:li>f 0.9256</rdf:li>
+           <rdf:li>d 0.394753 0.346000</rdf:li>
+           <rdf:li>f 0.9234</rdf:li>
+           <rdf:li>d 0.394592 0.346500</rdf:li>
+           <rdf:li>f 0.9236</rdf:li>
+           <rdf:li>d 0.395142 0.346500</rdf:li>
+           <rdf:li>f 0.9224</rdf:li>
+           <rdf:li>d 0.395665 0.346251</rdf:li>
+           <rdf:li>f 0.9530</rdf:li>
+           <rdf:li>d 0.396215 0.346250</rdf:li>
+           <rdf:li>f 0.9233</rdf:li>
+           <rdf:li>d 0.396752 0.346124</rdf:li>
+           <rdf:li>f 0.9859</rdf:li>
+           <rdf:li>d 0.397045 0.346000</rdf:li>
+           <rdf:li>f 0.9224</rdf:li>
+           <rdf:li>d 0.396496 0.346032</rdf:li>
+           <rdf:li>f 0.9217</rdf:li>
+           <rdf:li>d 0.395950 0.346134</rdf:li>
+           <rdf:li>f 0.9210</rdf:li>
+           <rdf:li>d 0.395404 0.346237</rdf:li>
+           <rdf:li>f 0.9129</rdf:li>
+           <rdf:li>d 0.395813 0.346250</rdf:li>
+           <rdf:li>f 0.9147</rdf:li>
+           <rdf:li>d 0.396359 0.346192</rdf:li>
+           <rdf:li>f 0.9151</rdf:li>
+           <rdf:li>d 0.396899 0.346030</rdf:li>
+           <rdf:li>f 0.9626</rdf:li>
+           <rdf:li>d 0.397447 0.346000</rdf:li>
+           <rdf:li>f 0.9517</rdf:li>
+           <rdf:li>d 0.397392 0.345725</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001834"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.399000 0.341250</rdf:li>
+           <rdf:li>f 0.4823</rdf:li>
+           <rdf:li>d 0.398556 0.340762</rdf:li>
+           <rdf:li>f 0.6770</rdf:li>
+           <rdf:li>d 0.398113 0.340274</rdf:li>
+           <rdf:li>f 0.7830</rdf:li>
+           <rdf:li>d 0.397669 0.339786</rdf:li>
+           <rdf:li>f 0.8498</rdf:li>
+           <rdf:li>d 0.397225 0.339298</rdf:li>
+           <rdf:li>f 0.8956</rdf:li>
+           <rdf:li>d 0.396781 0.338810</rdf:li>
+           <rdf:li>f 0.9155</rdf:li>
+           <rdf:li>d 0.396691 0.338537</rdf:li>
+           <rdf:li>f 0.9150</rdf:li>
+           <rdf:li>d 0.397080 0.339120</rdf:li>
+           <rdf:li>f 0.9956</rdf:li>
+           <rdf:li>d 0.397372 0.339809</rdf:li>
+           <rdf:li>f 0.9303</rdf:li>
+           <rdf:li>d 0.397761 0.340392</rdf:li>
+           <rdf:li>f 0.9066</rdf:li>
+           <rdf:li>d 0.398213 0.340750</rdf:li>
+           <rdf:li>f 0.9195</rdf:li>
+           <rdf:li>d 0.398237 0.340750</rdf:li>
+           <rdf:li>f 0.9210</rdf:li>
+           <rdf:li>d 0.397778 0.340418</rdf:li>
+           <rdf:li>f 0.9228</rdf:li>
+           <rdf:li>d 0.397389 0.339834</rdf:li>
+           <rdf:li>f 0.9233</rdf:li>
+           <rdf:li>d 0.396956 0.339342</rdf:li>
+           <rdf:li>f 0.9253</rdf:li>
+           <rdf:li>d 0.396656 0.338750</rdf:li>
+           <rdf:li>f 0.9317</rdf:li>
+           <rdf:li>d 0.396779 0.339168</rdf:li>
+           <rdf:li>f 0.9054</rdf:li>
+           <rdf:li>d 0.397212 0.339659</rdf:li>
+           <rdf:li>f 0.9208</rdf:li>
+           <rdf:li>d 0.397625 0.340000</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.397126 0.339767</rdf:li>
+           <rdf:li>d 0.396686 0.339272</rdf:li>
+           <rdf:li>f 0.9228</rdf:li>
+           <rdf:li>d 0.396225 0.338837</rdf:li>
+           <rdf:li>f 0.9247</rdf:li>
+           <rdf:li>d 0.395836 0.338254</rdf:li>
+           <rdf:li>f 0.9845</rdf:li>
+           <rdf:li>d 0.395306 0.338070</rdf:li>
+           <rdf:li>f 0.9169</rdf:li>
+           <rdf:li>d 0.394771 0.338047</rdf:li>
+           <rdf:li>f 0.9181</rdf:li>
+           <rdf:li>d 0.394325 0.338513</rdf:li>
+           <rdf:li>f 0.9169</rdf:li>
+           <rdf:li>d 0.394000 0.339136</rdf:li>
+           <rdf:li>f 0.9153</rdf:li>
+           <rdf:li>d 0.394000 0.339961</rdf:li>
+           <rdf:li>f 0.9555</rdf:li>
+           <rdf:li>d 0.393940 0.340772</rdf:li>
+           <rdf:li>f 0.9780</rdf:li>
+           <rdf:li>d 0.393833 0.341571</rdf:li>
+           <rdf:li>f 0.9594</rdf:li>
+           <rdf:li>d 0.393833 0.342397</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.393833 0.343222</rdf:li>
+           <rdf:li>f 0.9145</rdf:li>
+           <rdf:li>d 0.393667 0.344007</rdf:li>
+           <rdf:li>f 0.9128</rdf:li>
+           <rdf:li>d 0.393456 0.344549</rdf:li>
+           <rdf:li>f 0.9143</rdf:li>
+           <rdf:li>d 0.393016 0.345045</rdf:li>
+           <rdf:li>f 0.9036</rdf:li>
+           <rdf:li>d 0.392753 0.345500</rdf:li>
+           <rdf:li>f 0.8938</rdf:li>
+           <rdf:li>d 0.393303 0.345500</rdf:li>
+           <rdf:li>f 0.8995</rdf:li>
+           <rdf:li>d 0.393658 0.344895</rdf:li>
+           <rdf:li>f 0.9058</rdf:li>
+           <rdf:li>d 0.393920 0.344175</rdf:li>
+           <rdf:li>f 0.9066</rdf:li>
+           <rdf:li>d 0.394124 0.343408</rdf:li>
+           <rdf:li>f 0.9143</rdf:li>
+           <rdf:li>d 0.394167 0.342595</rdf:li>
+           <rdf:li>f 0.9116</rdf:li>
+           <rdf:li>d 0.394167 0.343230</rdf:li>
+           <rdf:li>f 0.9455</rdf:li>
+           <rdf:li>d 0.394076 0.344023</rdf:li>
+           <rdf:li>f 0.9972</rdf:li>
+           <rdf:li>d 0.393833 0.344763</rdf:li>
+           <rdf:li>f 0.9127</rdf:li>
+           <rdf:li>d 0.393556 0.345416</rdf:li>
+           <rdf:li>f 0.9778</rdf:li>
+           <rdf:li>d 0.393285 0.346073</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.392853 0.346500</rdf:li>
+           <rdf:li>f 0.8997</rdf:li>
+           <rdf:li>d 0.393303 0.346197</rdf:li>
+           <rdf:li>f 0.9017</rdf:li>
+           <rdf:li>d 0.393722 0.345667</rdf:li>
+           <rdf:li>f 0.9038</rdf:li>
+           <rdf:li>d 0.394111 0.345084</rdf:li>
+           <rdf:li>f 0.9899</rdf:li>
+           <rdf:li>d 0.394167 0.344293</rdf:li>
+           <rdf:li>f 0.9856</rdf:li>
+           <rdf:li>d 0.394000 0.344929</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.393906 0.345711</rdf:li>
+           <rdf:li>f 0.9460</rdf:li>
+           <rdf:li>d 0.393667 0.346428</rdf:li>
+           <rdf:li>f 0.9896</rdf:li>
+           <rdf:li>d 0.393302 0.347000</rdf:li>
+           <rdf:li>f 0.8625</rdf:li>
+           <rdf:li>d 0.392752 0.347000</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:PaintBasedCorrections>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-18T19:03:24"
    xmp:CreateDate="2016-08-18T19:03:24"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T14:51:43+02:00"
+   xmp:MetadataDate="2016-08-28T16:51:25+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,14 +75,14 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="8428F03901BAF44338E8616089BB03B6"
    xmpMM:OriginalDocumentID="8428F03901BAF44338E8616089BB03B6"
-   xmpMM:InstanceID="xmp.iid:d6f3d5bf-4fe4-bf4e-b5f7-17540782b770"
+   xmpMM:InstanceID="xmp.iid:0f0a9eb4-a0a3-454d-a20e-26bcd443d4ea"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
-   crs:WhiteBalance="As Shot"
+   crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
-   crs:Temperature="5000"
-   crs:Tint="-7"
+   crs:Temperature="7750"
+   crs:Tint="-3"
    crs:Saturation="0"
    crs:Sharpness="25"
    crs:LuminanceSmoothing="0"
@@ -97,7 +97,7 @@
    crs:BlueSaturation="0"
    crs:Vibrance="+20"
    crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentOrange="-18"
    crs:HueAdjustmentYellow="0"
    crs:HueAdjustmentGreen="0"
    crs:HueAdjustmentAqua="0"
@@ -148,7 +148,7 @@
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
-   crs:Exposure2012="+1.79"
+   crs:Exposure2012="+1.29"
    crs:Contrast2012="-9"
    crs:Highlights2012="-100"
    crs:Shadows2012="+98"
@@ -192,8 +192,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:d6f3d5bf-4fe4-bf4e-b5f7-17540782b770"
-      stEvt:when="2016-08-28T14:51:43+02:00"
+      stEvt:instanceID="xmp.iid:0f0a9eb4-a0a3-454d-a20e-26bcd443d4ea"
+      stEvt:when="2016-08-28T16:51:25+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -262,6 +262,42 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <crs:RetouchAreas>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.872986"
+       crs:OffsetY="0.770539"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.842319"
+         crs:Y="0.762789"
+         crs:SizeX="0.006883"
+         crs:SizeY="0.006883"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:RetouchAreas>
+   <crs:RetouchInfo>
+    <rdf:Seq>
+     <rdf:li>centerX = 0.842319, centerY = 0.762789, radius = 0.006883, sourceState = sourceAutoComputed, sourceX = 0.872986, sourceY = 0.770539, spotType = heal</rdf:li>
+    </rdf:Seq>
+   </crs:RetouchInfo>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>
