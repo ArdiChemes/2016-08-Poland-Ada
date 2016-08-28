@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-15T15:30:30"
    xmp:CreateDate="2016-08-15T15:30:30"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T15:24:20+02:00"
+   xmp:MetadataDate="2016-08-28T17:19:26+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +75,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="2830327F9F05E8010934AB2F7D41CB6D"
    xmpMM:OriginalDocumentID="2830327F9F05E8010934AB2F7D41CB6D"
-   xmpMM:InstanceID="xmp.iid:3434f108-a85b-284d-b38a-7323a748b055"
+   xmpMM:InstanceID="xmp.iid:201b1ede-9e01-8640-b33d-23f88527caee"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -192,8 +192,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:3434f108-a85b-284d-b38a-7323a748b055"
-      stEvt:when="2016-08-28T15:24:20+02:00"
+      stEvt:instanceID="xmp.iid:201b1ede-9e01-8640-b33d-23f88527caee"
+      stEvt:when="2016-08-28T17:19:26+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -201,6 +201,7 @@
    <dc:subject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>
+     <rdf:li>Focus</rdf:li>
      <rdf:li>Poland</rdf:li>
      <rdf:li>Polska</rdf:li>
      <rdf:li>Portrait</rdf:li>
@@ -2693,6 +2694,7 @@
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>
+     <rdf:li>Focus</rdf:li>
      <rdf:li>Poland</rdf:li>
      <rdf:li>Polska</rdf:li>
      <rdf:li>Portrait</rdf:li>
