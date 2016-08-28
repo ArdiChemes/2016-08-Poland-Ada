@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-16T19:29:26"
    xmp:CreateDate="2016-08-16T19:29:26"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T00:48:16+02:00"
+   xmp:MetadataDate="2016-08-28T14:47:55+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +75,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="77278022B74A0CB36D004427244E9558"
    xmpMM:OriginalDocumentID="77278022B74A0CB36D004427244E9558"
-   xmpMM:InstanceID="xmp.iid:7f488820-f551-e54f-9029-4c18ac1445cd"
+   xmpMM:InstanceID="xmp.iid:83592695-cc2b-524d-bc3c-8c17c159b1d6"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -95,7 +95,7 @@
    crs:GreenSaturation="0"
    crs:BlueHue="0"
    crs:BlueSaturation="0"
-   crs:Vibrance="+40"
+   crs:Vibrance="+20"
    crs:HueAdjustmentRed="0"
    crs:HueAdjustmentOrange="0"
    crs:HueAdjustmentYellow="0"
@@ -106,8 +106,8 @@
    crs:HueAdjustmentMagenta="0"
    crs:SaturationAdjustmentRed="0"
    crs:SaturationAdjustmentOrange="0"
-   crs:SaturationAdjustmentYellow="0"
-   crs:SaturationAdjustmentGreen="0"
+   crs:SaturationAdjustmentYellow="-22"
+   crs:SaturationAdjustmentGreen="-53"
    crs:SaturationAdjustmentAqua="0"
    crs:SaturationAdjustmentBlue="0"
    crs:SaturationAdjustmentPurple="0"
@@ -148,12 +148,12 @@
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
    crs:AutoLateralCA="0"
-   crs:Exposure2012="+1.45"
+   crs:Exposure2012="+1.40"
    crs:Contrast2012="+18"
-   crs:Highlights2012="0"
-   crs:Shadows2012="0"
-   crs:Whites2012="0"
-   crs:Blacks2012="-14"
+   crs:Highlights2012="-5"
+   crs:Shadows2012="+71"
+   crs:Whites2012="-2"
+   crs:Blacks2012="-50"
    crs:Clarity2012="0"
    crs:DefringePurpleAmount="0"
    crs:DefringePurpleHueLo="30"
@@ -185,8 +185,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:7f488820-f551-e54f-9029-4c18ac1445cd"
-      stEvt:when="2016-08-28T00:48:16+02:00"
+      stEvt:instanceID="xmp.iid:83592695-cc2b-524d-bc3c-8c17c159b1d6"
+      stEvt:when="2016-08-28T14:47:55+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -255,6 +255,154 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <crs:RetouchAreas>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.620333"
+       crs:OffsetY="0.360250"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.621500"
+         crs:Y="0.366000"
+         crs:SizeX="0.001550"
+         crs:SizeY="0.001550"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.622834"
+       crs:OffsetY="0.377000"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.619167"
+         crs:Y="0.370000"
+         crs:SizeX="0.001550"
+         crs:SizeY="0.001550"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.588833"
+       crs:OffsetY="0.384000"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.566500"
+         crs:Y="0.356500"
+         crs:SizeX="0.001550"
+         crs:SizeY="0.001550"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.572834"
+       crs:OffsetY="0.351000"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.566667"
+         crs:Y="0.351000"
+         crs:SizeX="0.001550"
+         crs:SizeY="0.001550"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceSetExplicitly"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.613834"
+       crs:OffsetY="0.371000"
+       crs:Opacity="1.000000"
+       crs:Feather="0.070000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.615667"
+         crs:Y="0.377250"
+         crs:SizeX="0.001550"
+         crs:SizeY="0.001550"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:RetouchAreas>
+   <crs:RetouchInfo>
+    <rdf:Seq>
+     <rdf:li>centerX = 0.621500, centerY = 0.366000, radius = 0.001550, sourceState = sourceAutoComputed, sourceX = 0.620333, sourceY = 0.360250, spotType = heal</rdf:li>
+     <rdf:li>centerX = 0.619167, centerY = 0.370000, radius = 0.001550, sourceState = sourceAutoComputed, sourceX = 0.622834, sourceY = 0.377000, spotType = heal</rdf:li>
+     <rdf:li>centerX = 0.566500, centerY = 0.356500, radius = 0.001550, sourceState = sourceAutoComputed, sourceX = 0.588833, sourceY = 0.384000, spotType = heal</rdf:li>
+     <rdf:li>centerX = 0.566667, centerY = 0.351000, radius = 0.001550, sourceState = sourceAutoComputed, sourceX = 0.572834, sourceY = 0.351000, spotType = heal</rdf:li>
+     <rdf:li>centerX = 0.615667, centerY = 0.377250, radius = 0.001550, sourceState = sourceSetExplicitly, sourceX = 0.613834, sourceY = 0.371000, spotType = heal</rdf:li>
+    </rdf:Seq>
+   </crs:RetouchInfo>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

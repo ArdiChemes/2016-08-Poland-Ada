@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-16T19:22:58"
    xmp:CreateDate="2016-08-16T19:22:58"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T00:48:15+02:00"
+   xmp:MetadataDate="2016-08-28T12:59:36+02:00"
    xmp:Rating="3"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +75,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="2AE07E4742241F4ACD5820DC3C164947"
    xmpMM:OriginalDocumentID="2AE07E4742241F4ACD5820DC3C164947"
-   xmpMM:InstanceID="xmp.iid:7ac980ad-6e11-fd46-8bd4-47e5da25ef21"
+   xmpMM:InstanceID="xmp.iid:201281d2-ec7f-f349-b6cb-1ace3808b6c8"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -95,7 +95,7 @@
    crs:GreenSaturation="0"
    crs:BlueHue="0"
    crs:BlueSaturation="0"
-   crs:Vibrance="+40"
+   crs:Vibrance="+20"
    crs:HueAdjustmentRed="0"
    crs:HueAdjustmentOrange="0"
    crs:HueAdjustmentYellow="0"
@@ -151,7 +151,7 @@
    crs:Exposure2012="+0.70"
    crs:Contrast2012="+12"
    crs:Highlights2012="-20"
-   crs:Shadows2012="+20"
+   crs:Shadows2012="+71"
    crs:Whites2012="+14"
    crs:Blacks2012="-28"
    crs:Clarity2012="0"
@@ -168,6 +168,13 @@
    crs:CameraProfileDigest="1788B570030FACFA9FE192B3FDFCB113"
    crs:LensProfileSetup="LensDefaults"
    crs:HasSettings="True"
+   crs:CropTop="0.223675"
+   crs:CropLeft="0"
+   crs:CropBottom="1"
+   crs:CropRight="0.776325"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
    crs:AlreadyApplied="False"
    crs:RawFileName="DSC06772.ARW">
    <exif:ISOSpeedRatings>
@@ -185,8 +192,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:7ac980ad-6e11-fd46-8bd4-47e5da25ef21"
-      stEvt:when="2016-08-28T00:48:15+02:00"
+      stEvt:instanceID="xmp.iid:201281d2-ec7f-f349-b6cb-1ace3808b6c8"
+      stEvt:when="2016-08-28T12:59:36+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
