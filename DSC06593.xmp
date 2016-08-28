@@ -65,7 +65,7 @@
    xmp:ModifyDate="2016-08-15T15:31:51"
    xmp:CreateDate="2016-08-15T15:31:51"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T00:51:24+02:00"
+   xmp:MetadataDate="2016-08-28T11:13:28+02:00"
    xmp:Rating="4"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +75,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="2FC748E778A9C2193AD3B9CE590F5C9F"
    xmpMM:OriginalDocumentID="2FC748E778A9C2193AD3B9CE590F5C9F"
-   xmpMM:InstanceID="xmp.iid:6d087542-e548-5644-956a-38d4e61f82a9"
+   xmpMM:InstanceID="xmp.iid:bf8c3caa-879b-964b-b3a8-9049fc151e9b"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -95,7 +95,7 @@
    crs:GreenSaturation="0"
    crs:BlueHue="0"
    crs:BlueSaturation="0"
-   crs:Vibrance="+40"
+   crs:Vibrance="+25"
    crs:HueAdjustmentRed="0"
    crs:HueAdjustmentOrange="0"
    crs:HueAdjustmentYellow="0"
@@ -185,8 +185,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:6d087542-e548-5644-956a-38d4e61f82a9"
-      stEvt:when="2016-08-28T00:51:24+02:00"
+      stEvt:instanceID="xmp.iid:bf8c3caa-879b-964b-b3a8-9049fc151e9b"
+      stEvt:when="2016-08-28T11:13:28+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
