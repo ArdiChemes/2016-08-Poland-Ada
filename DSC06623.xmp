@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-15T15:53:00"
    xmp:CreateDate="2016-08-15T15:53:00"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T16:04:56+02:00"
+   xmp:MetadataDate="2016-08-28T20:59:30+02:00"
    xmp:Rating="3"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="53623DA1B3EBD89868DB44CA9BBADD5C"
    xmpMM:OriginalDocumentID="53623DA1B3EBD89868DB44CA9BBADD5C"
-   xmpMM:InstanceID="xmp.iid:5cf2c231-3c98-e444-bf4c-39d97ecd76f2"
+   xmpMM:InstanceID="xmp.iid:faf9ea7a-3a4f-3a4d-b934-29f765316a8d"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -125,10 +128,10 @@
    crs:SplitToningHighlightHue="0"
    crs:SplitToningHighlightSaturation="0"
    crs:SplitToningBalance="0"
-   crs:ParametricShadows="0"
-   crs:ParametricDarks="0"
-   crs:ParametricLights="0"
-   crs:ParametricHighlights="0"
+   crs:ParametricShadows="-5"
+   crs:ParametricDarks="-9"
+   crs:ParametricLights="-14"
+   crs:ParametricHighlights="-16"
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
@@ -185,8 +188,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:5cf2c231-3c98-e444-bf4c-39d97ecd76f2"
-      stEvt:when="2016-08-28T16:04:56+02:00"
+      stEvt:instanceID="xmp.iid:faf9ea7a-3a4f-3a4d-b934-29f765316a8d"
+      stEvt:when="2016-08-28T20:59:30+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -254,6 +257,82 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <crs:RetouchAreas>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceSetExplicitly"
+       crs:Method="gaussian"
+       crs:HealVersion="+1"
+       crs:SourceX="0.502833"
+       crs:OffsetY="0.351000"
+       crs:Opacity="0.470000"
+       crs:Feather="0.140000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.007217"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.500000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.504833 0.579500</rdf:li>
+           <rdf:li>d 0.503457 0.582007</rdf:li>
+           <rdf:li>d 0.503042 0.582776</rdf:li>
+           <rdf:li>d 0.501679 0.585300</rdf:li>
+           <rdf:li>d 0.500849 0.586898</rdf:li>
+           <rdf:li>d 0.499637 0.589029</rdf:li>
+           <rdf:li>d 0.498231 0.591500</rdf:li>
+           <rdf:li>d 0.496826 0.593970</rdf:li>
+           <rdf:li>d 0.496000 0.594726</rdf:li>
+           <rdf:li>d 0.494152 0.596419</rdf:li>
+           <rdf:li>d 0.492304 0.598111</rdf:li>
+           <rdf:li>d 0.491435 0.598932</rdf:li>
+           <rdf:li>d 0.491205 0.599169</rdf:li>
+           <rdf:li>d 0.490961 0.599431</rdf:li>
+           <rdf:li>d 0.490650 0.599729</rdf:li>
+           <rdf:li>d 0.488826 0.601478</rdf:li>
+           <rdf:li>d 0.488335 0.601971</rdf:li>
+           <rdf:li>d 0.486536 0.603778</rdf:li>
+           <rdf:li>d 0.484737 0.605585</rdf:li>
+           <rdf:li>d 0.482938 0.607392</rdf:li>
+           <rdf:li>d 0.482675 0.607780</rdf:li>
+           <rdf:li>d 0.482638 0.607835</rdf:li>
+           <rdf:li>d 0.481094 0.610112</rdf:li>
+           <rdf:li>d 0.480156 0.611731</rdf:li>
+           <rdf:li>d 0.480101 0.611883</rdf:li>
+           <rdf:li>d 0.479837 0.612622</rdf:li>
+           <rdf:li>d 0.479648 0.613702</rdf:li>
+           <rdf:li>d 0.479097 0.616843</rdf:li>
+           <rdf:li>d 0.478547 0.619984</rdf:li>
+           <rdf:li>d 0.478047 0.622055</rdf:li>
+           <rdf:li>d 0.477832 0.623115</rdf:li>
+           <rdf:li>d 0.477622 0.624621</rdf:li>
+           <rdf:li>d 0.477291 0.626918</rdf:li>
+           <rdf:li>d 0.476834 0.630092</rdf:li>
+           <rdf:li>d 0.476801 0.630723</rdf:li>
+           <rdf:li>d 0.476725 0.631426</rdf:li>
+           <rdf:li>d 0.476592 0.632555</rdf:li>
+           <rdf:li>d 0.476509 0.633566</rdf:li>
+           <rdf:li>d 0.476244 0.636789</rdf:li>
+           <rdf:li>d 0.476222 0.637051</rdf:li>
+           <rdf:li>d 0.476159 0.637571</rdf:li>
+           <rdf:li>d 0.476116 0.638091</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:RetouchAreas>
    <crs:PaintBasedCorrections>
     <rdf:Seq>
      <rdf:li>
@@ -4348,6 +4427,27 @@
      </rdf:li>
     </rdf:Seq>
    </crs:PaintBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="6000"
+     stDim:h="4000"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="0.15556"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.44986"
+        stArea:w="0.29961"
+        stArea:x="0.55735"
+        stArea:y="0.49498"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

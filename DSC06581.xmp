@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-15T15:30:37"
    xmp:CreateDate="2016-08-15T15:30:37"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T17:18:01+02:00"
+   xmp:MetadataDate="2016-08-28T20:51:44+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="5C54AD62A7904DECF652B4C1115784E5"
    xmpMM:OriginalDocumentID="5C54AD62A7904DECF652B4C1115784E5"
-   xmpMM:InstanceID="xmp.iid:39a46bfa-a7c8-c646-bb0e-c190ca3fdc97"
+   xmpMM:InstanceID="xmp.iid:38bc0aeb-8446-1745-86f8-3ed4183665fb"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -106,16 +109,16 @@
    crs:HueAdjustmentMagenta="0"
    crs:SaturationAdjustmentRed="0"
    crs:SaturationAdjustmentOrange="0"
-   crs:SaturationAdjustmentYellow="-18"
-   crs:SaturationAdjustmentGreen="-40"
+   crs:SaturationAdjustmentYellow="-17"
+   crs:SaturationAdjustmentGreen="-57"
    crs:SaturationAdjustmentAqua="0"
    crs:SaturationAdjustmentBlue="0"
    crs:SaturationAdjustmentPurple="0"
    crs:SaturationAdjustmentMagenta="0"
    crs:LuminanceAdjustmentRed="0"
    crs:LuminanceAdjustmentOrange="0"
-   crs:LuminanceAdjustmentYellow="0"
-   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentYellow="-6"
+   crs:LuminanceAdjustmentGreen="-24"
    crs:LuminanceAdjustmentAqua="0"
    crs:LuminanceAdjustmentBlue="0"
    crs:LuminanceAdjustmentPurple="0"
@@ -150,7 +153,7 @@
    crs:AutoLateralCA="0"
    crs:Exposure2012="+1.70"
    crs:Contrast2012="+2"
-   crs:Highlights2012="0"
+   crs:Highlights2012="-67"
    crs:Shadows2012="+24"
    crs:Whites2012="-100"
    crs:Blacks2012="-64"
@@ -185,8 +188,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:39a46bfa-a7c8-c646-bb0e-c190ca3fdc97"
-      stEvt:when="2016-08-28T17:18:01+02:00"
+      stEvt:instanceID="xmp.iid:38bc0aeb-8446-1745-86f8-3ed4183665fb"
+      stEvt:when="2016-08-28T20:51:44+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -4249,6 +4252,27 @@
      </rdf:li>
     </rdf:Seq>
    </crs:PaintBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="6000"
+     stDim:h="4000"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.04676"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.35383"
+        stArea:w="0.23566"
+        stArea:x="0.36891"
+        stArea:y="0.40176"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

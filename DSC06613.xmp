@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-15T15:52:19"
    xmp:CreateDate="2016-08-15T15:52:19"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T15:50:20+02:00"
+   xmp:MetadataDate="2016-08-28T20:55:39+02:00"
    xmp:Rating="3"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="73E7A8E71226E589434B9829FCA75414"
    xmpMM:OriginalDocumentID="73E7A8E71226E589434B9829FCA75414"
-   xmpMM:InstanceID="xmp.iid:f5415679-f0cf-ec4d-8aef-4a5ebff2e7e2"
+   xmpMM:InstanceID="xmp.iid:d1f40a54-7b0f-3d42-8178-55f972019104"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -125,10 +128,10 @@
    crs:SplitToningHighlightHue="0"
    crs:SplitToningHighlightSaturation="0"
    crs:SplitToningBalance="0"
-   crs:ParametricShadows="0"
-   crs:ParametricDarks="0"
-   crs:ParametricLights="0"
-   crs:ParametricHighlights="0"
+   crs:ParametricShadows="-14"
+   crs:ParametricDarks="-21"
+   crs:ParametricLights="-8"
+   crs:ParametricHighlights="-13"
    crs:ParametricShadowSplit="25"
    crs:ParametricMidtoneSplit="50"
    crs:ParametricHighlightSplit="75"
@@ -185,8 +188,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:f5415679-f0cf-ec4d-8aef-4a5ebff2e7e2"
-      stEvt:when="2016-08-28T15:50:20+02:00"
+      stEvt:instanceID="xmp.iid:d1f40a54-7b0f-3d42-8178-55f972019104"
+      stEvt:when="2016-08-28T20:55:39+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -1029,6 +1032,27 @@
      </rdf:li>
     </rdf:Seq>
    </crs:PaintBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="6000"
+     stDim:h="4000"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="0.06966"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.14400"
+        stArea:w="0.09591"
+        stArea:x="0.35502"
+        stArea:y="0.39346"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

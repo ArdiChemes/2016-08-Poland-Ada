@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-15T15:30:30"
    xmp:CreateDate="2016-08-15T15:30:30"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T17:19:26+02:00"
+   xmp:MetadataDate="2016-08-28T20:49:16+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="2830327F9F05E8010934AB2F7D41CB6D"
    xmpMM:OriginalDocumentID="2830327F9F05E8010934AB2F7D41CB6D"
-   xmpMM:InstanceID="xmp.iid:201b1ede-9e01-8640-b33d-23f88527caee"
+   xmpMM:InstanceID="xmp.iid:604544ef-5701-7749-8d50-40c547137231"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -150,7 +153,7 @@
    crs:AutoLateralCA="0"
    crs:Exposure2012="+1.00"
    crs:Contrast2012="+9"
-   crs:Highlights2012="-16"
+   crs:Highlights2012="-93"
    crs:Shadows2012="+96"
    crs:Whites2012="-71"
    crs:Blacks2012="-50"
@@ -192,8 +195,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:201b1ede-9e01-8640-b33d-23f88527caee"
-      stEvt:when="2016-08-28T17:19:26+02:00"
+      stEvt:instanceID="xmp.iid:604544ef-5701-7749-8d50-40c547137231"
+      stEvt:when="2016-08-28T20:49:16+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -2691,6 +2694,27 @@
      </rdf:li>
     </rdf:Seq>
    </crs:PaintBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="5163"
+     stDim:h="3442"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.03661"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.37012"
+        stArea:w="0.24650"
+        stArea:x="0.53456"
+        stArea:y="0.49269"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

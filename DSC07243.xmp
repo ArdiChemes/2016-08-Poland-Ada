@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-19T19:07:08"
    xmp:CreateDate="2016-08-19T19:07:08"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T14:16:07+02:00"
+   xmp:MetadataDate="2016-08-30T23:25:26+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="84392CBF0EC861BBA00F0E2F196651D7"
    xmpMM:OriginalDocumentID="84392CBF0EC861BBA00F0E2F196651D7"
-   xmpMM:InstanceID="xmp.iid:2dcdd178-e838-6648-8c72-95d672825e1c"
+   xmpMM:InstanceID="xmp.iid:9eea852d-1f46-9b40-88e0-b643b7a21968"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -168,10 +171,10 @@
    crs:CameraProfileDigest="1788B570030FACFA9FE192B3FDFCB113"
    crs:LensProfileSetup="LensDefaults"
    crs:HasSettings="True"
-   crs:CropTop="0.212798"
-   crs:CropLeft="0.075972"
-   crs:CropBottom="0.992164"
-   crs:CropRight="0.866657"
+   crs:CropTop="0.387086"
+   crs:CropLeft="0.139264"
+   crs:CropBottom="0.993899"
+   crs:CropRight="0.75489"
    crs:CropAngle="-0.380226"
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
@@ -192,8 +195,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:2dcdd178-e838-6648-8c72-95d672825e1c"
-      stEvt:when="2016-08-28T14:16:07+02:00"
+      stEvt:instanceID="xmp.iid:9eea852d-1f46-9b40-88e0-b643b7a21968"
+      stEvt:when="2016-08-30T23:25:26+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -261,6 +264,27 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="3678"
+     stDim:h="2452"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="0.02515"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.10470"
+        stArea:w="0.06973"
+        stArea:x="0.33985"
+        stArea:y="0.52759"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

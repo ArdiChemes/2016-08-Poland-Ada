@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-16T19:21:27"
    xmp:CreateDate="2016-08-16T19:21:27"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T16:15:54+02:00"
+   xmp:MetadataDate="2016-08-28T21:06:29+02:00"
    xmp:Rating="3"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="3B784DC4914F7111E3F236905AF38BAB"
    xmpMM:OriginalDocumentID="3B784DC4914F7111E3F236905AF38BAB"
-   xmpMM:InstanceID="xmp.iid:15d94741-4b6b-054c-88f7-393c7a8dcbe9"
+   xmpMM:InstanceID="xmp.iid:2f4d3920-82a0-3f48-b3ea-dd90e4e916c5"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -168,6 +171,13 @@
    crs:CameraProfileDigest="1788B570030FACFA9FE192B3FDFCB113"
    crs:LensProfileSetup="LensDefaults"
    crs:HasSettings="True"
+   crs:CropTop="0"
+   crs:CropLeft="0.069354"
+   crs:CropBottom="1"
+   crs:CropRight="0.73602"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
    crs:AlreadyApplied="False"
    crs:RawFileName="DSC06771.ARW">
    <exif:ISOSpeedRatings>
@@ -185,8 +195,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:15d94741-4b6b-054c-88f7-393c7a8dcbe9"
-      stEvt:when="2016-08-28T16:15:54+02:00"
+      stEvt:instanceID="xmp.iid:2f4d3920-82a0-3f48-b3ea-dd90e4e916c5"
+      stEvt:when="2016-08-28T21:06:29+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -255,6 +265,27 @@
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012Blue>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="4000"
+     stDim:h="4000"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="0.11622"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.58412"
+        stArea:w="0.38903"
+        stArea:x="0.44271"
+        stArea:y="0.37411"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

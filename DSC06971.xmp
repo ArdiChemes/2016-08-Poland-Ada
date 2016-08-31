@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-18T19:03:24"
    xmp:CreateDate="2016-08-18T19:03:24"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T16:51:25+02:00"
+   xmp:MetadataDate="2016-08-31T23:52:37+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="8428F03901BAF44338E8616089BB03B6"
    xmpMM:OriginalDocumentID="8428F03901BAF44338E8616089BB03B6"
-   xmpMM:InstanceID="xmp.iid:0f0a9eb4-a0a3-454d-a20e-26bcd443d4ea"
+   xmpMM:InstanceID="xmp.iid:b5df8937-abb9-e94c-9246-8cae5345df49"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -97,7 +100,7 @@
    crs:BlueSaturation="0"
    crs:Vibrance="+20"
    crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="-18"
+   crs:HueAdjustmentOrange="0"
    crs:HueAdjustmentYellow="0"
    crs:HueAdjustmentGreen="0"
    crs:HueAdjustmentAqua="0"
@@ -192,8 +195,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:0f0a9eb4-a0a3-454d-a20e-26bcd443d4ea"
-      stEvt:when="2016-08-28T16:51:25+02:00"
+      stEvt:instanceID="xmp.iid:b5df8937-abb9-e94c-9246-8cae5345df49"
+      stEvt:when="2016-08-31T23:52:37+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -298,6 +301,27 @@
      <rdf:li>centerX = 0.842319, centerY = 0.762789, radius = 0.006883, sourceState = sourceAutoComputed, sourceX = 0.872986, sourceY = 0.770539, spotType = heal</rdf:li>
     </rdf:Seq>
    </crs:RetouchInfo>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="5748"
+     stDim:h="3832"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.00169"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.30524"
+        stArea:w="0.20329"
+        stArea:x="0.38293"
+        stArea:y="0.25246"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>

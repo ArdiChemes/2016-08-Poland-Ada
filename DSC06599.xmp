@@ -10,6 +10,9 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    tiff:Make="SONY"
    tiff:Model="SLT-A65V"
@@ -65,7 +68,7 @@
    xmp:ModifyDate="2016-08-15T15:32:46"
    xmp:CreateDate="2016-08-15T15:32:46"
    xmp:Label="Red"
-   xmp:MetadataDate="2016-08-28T15:45:31+02:00"
+   xmp:MetadataDate="2016-08-28T20:53:56+02:00"
    xmp:Rating="5"
    aux:LensInfo="50/1 50/1 17/10 17/10"
    aux:Lens="50mm F1.7"
@@ -75,7 +78,7 @@
    photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
    xmpMM:DocumentID="E244CC076CCC3C90F79E052FEAF3F542"
    xmpMM:OriginalDocumentID="E244CC076CCC3C90F79E052FEAF3F542"
-   xmpMM:InstanceID="xmp.iid:a71002eb-7b7b-7246-ad14-6533f2e4800c"
+   xmpMM:InstanceID="xmp.iid:18b53ed9-f8c7-2d4a-a2c8-8b80a5478edd"
    dc:format="image/x-sony-arw"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
@@ -125,8 +128,8 @@
    crs:SplitToningHighlightHue="0"
    crs:SplitToningHighlightSaturation="0"
    crs:SplitToningBalance="0"
-   crs:ParametricShadows="0"
-   crs:ParametricDarks="0"
+   crs:ParametricShadows="-20"
+   crs:ParametricDarks="-13"
    crs:ParametricLights="0"
    crs:ParametricHighlights="0"
    crs:ParametricShadowSplit="25"
@@ -185,8 +188,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:a71002eb-7b7b-7246-ad14-6533f2e4800c"
-      stEvt:when="2016-08-28T15:45:31+02:00"
+      stEvt:instanceID="xmp.iid:18b53ed9-f8c7-2d4a-a2c8-8b80a5478edd"
+      stEvt:when="2016-08-28T20:53:56+02:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Windows)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -269,7 +272,7 @@
        crs:LocalBrightness="0.000000"
        crs:LocalToningHue="240.000000"
        crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="0.137500"
+       crs:LocalExposure2012="0.112500"
        crs:LocalContrast2012="0.000000"
        crs:LocalHighlights2012="0.000000"
        crs:LocalShadows2012="0.000000"
@@ -1667,6 +1670,82 @@
            <rdf:li>d 0.604888 0.316914</rdf:li>
            <rdf:li>f 0.6473</rdf:li>
            <rdf:li>d 0.604506 0.316505</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.000000"
+          crs:Radius="0.001084"
+          crs:Flow="0.007944"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.607611 0.315417</rdf:li>
+           <rdf:li>f 0.6185</rdf:li>
+           <rdf:li>d 0.607879 0.315693</rdf:li>
+           <rdf:li>f 0.8019</rdf:li>
+           <rdf:li>d 0.608147 0.315969</rdf:li>
+           <rdf:li>f 0.8902</rdf:li>
+           <rdf:li>d 0.608415 0.316246</rdf:li>
+           <rdf:li>f 0.9267</rdf:li>
+           <rdf:li>d 0.608398 0.316254</rdf:li>
+           <rdf:li>f 0.9210</rdf:li>
+           <rdf:li>d 0.608096 0.316072</rdf:li>
+           <rdf:li>f 0.9220</rdf:li>
+           <rdf:li>d 0.607805 0.315854</rdf:li>
+           <rdf:li>f 0.9223</rdf:li>
+           <rdf:li>d 0.607548 0.315558</rdf:li>
+           <rdf:li>f 0.9238</rdf:li>
+           <rdf:li>d 0.607289 0.315266</rdf:li>
+           <rdf:li>f 0.9218</rdf:li>
+           <rdf:li>d 0.607084 0.315000</rdf:li>
+           <rdf:li>f 0.9216</rdf:li>
+           <rdf:li>d 0.607350 0.315267</rdf:li>
+           <rdf:li>f 0.9223</rdf:li>
+           <rdf:li>d 0.607621 0.315537</rdf:li>
+           <rdf:li>f 0.9231</rdf:li>
+           <rdf:li>d 0.607898 0.315792</rdf:li>
+           <rdf:li>f 1.0000</rdf:li>
+           <rdf:li>d 0.608144 0.316000</rdf:li>
+           <rdf:li>f 0.9808</rdf:li>
+           <rdf:li>d 0.607844 0.315827</rdf:li>
+           <rdf:li>f 0.9298</rdf:li>
+           <rdf:li>d 0.607558 0.315597</rdf:li>
+           <rdf:li>f 0.9294</rdf:li>
+           <rdf:li>d 0.607259 0.315408</rdf:li>
+           <rdf:li>f 0.9297</rdf:li>
+           <rdf:li>d 0.606946 0.315274</rdf:li>
+           <rdf:li>f 0.9306</rdf:li>
+           <rdf:li>d 0.606654 0.315065</rdf:li>
+           <rdf:li>f 0.9260</rdf:li>
+           <rdf:li>d 0.606824 0.315201</rdf:li>
+           <rdf:li>f 0.9261</rdf:li>
+           <rdf:li>d 0.607106 0.315440</rdf:li>
+           <rdf:li>f 0.9268</rdf:li>
+           <rdf:li>d 0.607377 0.315710</rdf:li>
+           <rdf:li>f 0.9277</rdf:li>
+           <rdf:li>d 0.607648 0.315981</rdf:li>
+           <rdf:li>f 0.9280</rdf:li>
+           <rdf:li>d 0.607926 0.316233</rdf:li>
+           <rdf:li>f 0.9282</rdf:li>
+           <rdf:li>d 0.608184 0.316526</rdf:li>
+           <rdf:li>f 0.9331</rdf:li>
+           <rdf:li>d 0.608308 0.316629</rdf:li>
+           <rdf:li>f 0.9332</rdf:li>
+           <rdf:li>d 0.608036 0.316387</rdf:li>
+           <rdf:li>f 0.9345</rdf:li>
+           <rdf:li>d 0.607769 0.316118</rdf:li>
+           <rdf:li>f 0.9355</rdf:li>
+           <rdf:li>d 0.607492 0.315866</rdf:li>
+           <rdf:li>f 0.9365</rdf:li>
+           <rdf:li>d 0.607211 0.315628</rdf:li>
+           <rdf:li>f 0.9372</rdf:li>
+           <rdf:li>d 0.606915 0.315427</rdf:li>
+           <rdf:li>f 0.9396</rdf:li>
+           <rdf:li>d 0.606651 0.315155</rdf:li>
           </rdf:Seq>
          </crs:Dabs>
          </rdf:Description>
@@ -3675,6 +3754,27 @@
      </rdf:li>
     </rdf:Seq>
    </crs:PaintBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="6000"
+     stDim:h="4000"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.02647"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.20987"
+        stArea:w="0.13978"
+        stArea:x="0.58001"
+        stArea:y="0.32233"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
    <lr:hierarchicalSubject>
     <rdf:Bag>
      <rdf:li>Ada</rdf:li>
